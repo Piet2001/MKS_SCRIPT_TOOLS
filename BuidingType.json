@@ -51,13 +51,13 @@
 		"ID": "8",
 		"name": "Politie, Academie",
 	},
-  {
-    "ID": "7",
-    "name": "Universiteit Faculteit Geneeskunde",
-   },
-   {
-    "ID": "12",
-    "name": "Politie, Cellencomplex voor teams",
-    },
+	{
+		"ID": "7",
+	    	"name": "Universiteit Faculteit Geneeskunde",
+	},
+	{
+		"ID": "12",
+	    	"name": "Politie, Cellencomplex voor teams",
+	},
   ]
   
