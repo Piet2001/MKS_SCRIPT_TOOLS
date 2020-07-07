@@ -15,6 +15,10 @@
 		"ID": "3",
 		"name": "Ambulance, Standplaats",
 	},
+	{
+		"ID": "4",
+		"name": "Brandweer, Academie",
+	},
   	{
 		"ID": "5",
 		"name": "Politie, Opkomstbureau",
@@ -22,38 +26,34 @@
   	{
 		"ID": "6",
 		"name": "MMT, Standplaats",
+	},	
+	{
+		"ID": "7",
+	    	"name": "Universiteit Faculteit Geneeskunde",
+	},  	
+	{
+		"ID": "8",
+		"name": "Politie, Academie",
 	},
   	{
 		"ID": "9",
 		"name": "Politiehelikoper standplaats",
-	},
-  	{
-		"ID": "11",
-		"name": "Politie, Hoofdbureau",
-	},
-  	{
-		"ID": "13",
-		"name": "Ambulance, VWS-post",
-	},
-  	{
-		"ID": "4",
-		"name": "Brandweer, Academie",
-	},
+	},	
 	{
 		"ID": "10",
 		"name": "Uitgangstelling (UGS)",
 	},
   	{
-		"ID": "8",
-		"name": "Politie, Academie",
-	},
-	{
-		"ID": "7",
-	    	"name": "Universiteit Faculteit Geneeskunde",
+		"ID": "11",
+		"name": "Politie, Hoofdbureau",
 	},
 	{
 		"ID": "12",
 	    	"name": "Politie, Cellencomplex voor teams",
+	},
+  	{
+		"ID": "13",
+		"name": "Ambulance, VWS-post",
 	},
   ]
   
