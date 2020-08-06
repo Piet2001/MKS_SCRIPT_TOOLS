@@ -1,8 +1,8 @@
 [
 	{
 		"ID": "0",
-		"name": "SIV",
-		"namelong": "Snel Interventie Voertuig",
+		"name": "SI‐2",
+		"namelong": "Snel Inzetbare Eenheid (2 pers.)",
 	},
   	{
 		"ID": "1",
@@ -41,13 +41,13 @@
 	},
   	{
 		"ID": "8",
-		"name": "TST 4",
-		"namelong": "Tankautospuit Terreinvaardig (4 personen)",
+		"name": "TST 4/5",
+		"namelong": "Tankautospuit Terreinvaardig (4/5 personen)",
 	},
   	{
 		"ID": "9",
-		"name": "TS 4",
-		"namelong": "Tankautospuit (4 personen)",
+		"name": "TS 4/5",
+		"namelong": "Tankautospuit (4/5 personen)",
 	},
   	{
 		"ID": "10",
@@ -56,8 +56,8 @@
 	},
   	{
 		"ID": "11",
-		"name": "PM-WVD",
-		"namelong": "Waarschuwings- en Verkenningsdienst",
+		"name": "DB-VEB",
+		"namelong": "Dienstbus Verkenningseenheid Brandweer",
 	},
   	{
 		"ID": "12",
@@ -71,8 +71,8 @@
 	},
   	{
 		"ID": "15",
-		"name": "TST-NBB 4",
-		"namelong": "Tankautospuit Natuurbrandbestrijding (4 personen)",
+		"name": "TST-NBB 4/5",
+		"namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)",
 	},
   	{
 		"ID": "16",
@@ -139,7 +139,7 @@
     	{
 		"ID": "29",
 		"name": "WTH",
-		"namelong": "Watertransporthaakarmbak",
+		"namelong": "Watertankhaakarmbak",
 	},
     	{
 		"ID": "30",
@@ -163,8 +163,8 @@
 	},
     	{
 		"ID": "34",
-		"name": "TW",
-		"namelong": "Tankwagen",
+		"name": "WT",
+		"namelong": "Watertankwagen",
 	},
     	{
 		"ID": "35",
