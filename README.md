@@ -1,6 +1,6 @@
-# MKS_SCRIPT_TOOLS
+Here you can find some files to use with your scripts!   
+::: Warning Please note in your script description when you are using this.
 
-In this repo are JSON files for Meldkamerspel.com.
 
 You can use te files with the RAW URL.  
 A list of the availible JSON files:
