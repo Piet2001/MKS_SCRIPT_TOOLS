@@ -1,5 +1,5 @@
 Here you can find some files to use with your scripts!   
-::: Warning Please note in your script description when you are using this.
+Please note in your script description when you are using this.
 
 
 You can use te files with the RAW URL.  
