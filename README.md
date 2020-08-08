@@ -12,7 +12,7 @@ A list of the availible JSON files:
   {
     "ID": 0,
     "name": "String",
-    "namelong": "String", //not all vehicles
+    "namelong": "String",
     "prices": [
       {
         "credits": 0,

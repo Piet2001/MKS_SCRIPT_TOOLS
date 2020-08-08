@@ -167,6 +167,7 @@
   	{
 		"ID": 16,
 		"name": "Ambulance",
+		"namelong": "Ambulance",
 		"prices": [
 			{
 				"credits": 5000,
@@ -243,6 +244,7 @@
     	{
 		"ID": 23,
 		"name": "Lifeliner",
+		"namelong": "Lifeliner",
 		"prices": [
 			{
 				"credits": 500000,
@@ -297,6 +299,7 @@
     	{
 		"ID": 28,
 		"name": "Politiehelikopter",
+		"namelong": "Politiehelikopter",
 		"prices": [
 			{
 				"credits": 300000,
@@ -395,6 +398,7 @@
     	{
 		"ID": 37,
 		"name": "MMT-Auto",
+		"namelong": "MMT-Auto",
 		"prices": [
 			{
 				"credits": 30000,
