@@ -420,6 +420,7 @@
     	{
 		"ID": 39,
 		"name": "ME Commandovoertuig",
+		"namelong": "ME Commandovoertuig",
 		"prices": [
 			{
 				"credits": 10000,
