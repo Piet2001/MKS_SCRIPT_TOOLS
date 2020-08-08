@@ -10,9 +10,15 @@ A list of the availible JSON files:
 
 ```JSON
   {
-  "ID": 0,
-  "name": "String",
-  "namelong": "String"
+    "ID": 0,
+    "name": "String",
+    "namelong": "String", //not all vehicles
+    "prices": [
+      {
+        "credits": 0,
+        "coins": 0
+      }
+    ]
   }
 ```
 
@@ -20,8 +26,8 @@ A list of the availible JSON files:
 
 ```JSON
   {
-  "ID": ,
-  "name": "String"
+    "ID": ,
+    "name": "String"
   }
 ```
 
