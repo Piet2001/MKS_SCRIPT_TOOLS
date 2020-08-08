@@ -1,54 +1,54 @@
 [
 	{
-		"ID": "0",
+		"ID": 0,
 		"name": "Brandweer, Kazerne"
 	},
   	{
-		"ID": "1",
+		"ID": 1,
 		"name": "Meldkamer"
 	},
   	{
-		"ID": "2",
+		"ID": 2,
 		"name": "Ziekenhuis"
 	},
   	{
-		"ID": "3",
+		"ID": 3,
 		"name": "Ambulance, Standplaats"
 	},
 	{
-		"ID": "4",
+		"ID": 4,
 		"name": "Brandweer, Academie"
 	},
   	{
-		"ID": "5",
+		"ID": 5,
 		"name": "Politie, Opkomstbureau"
 	},
   	{
-		"ID": "6",
+		"ID": 6,
 		"name": "MMT, Standplaats"
 	},	
 	{
-		"ID": "7",
+		"ID": 7,
 	    	"name": "Universiteit Faculteit Geneeskunde"
 	},  	
 	{
-		"ID": "8",
+		"ID": 8,
 		"name": "Politie, Academie"
 	},
   	{
-		"ID": "9",
+		"ID": 9,
 		"name": "Politiehelikoper standplaats"
 	},	
 	{
-		"ID": "10",
+		"ID": 10,
 		"name": "Uitgangstelling (UGS)"
 	},
   	{
-		"ID": "11",
+		"ID": 11,
 		"name": "Politie, Hoofdbureau"
 	},
 	{
-		"ID": "12",
+		"ID": 12,
 	    	"name": "Politie, Cellencomplex voor teams"
 	}
   ]
