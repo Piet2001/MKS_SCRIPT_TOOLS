@@ -47,7 +47,7 @@
 			}
 		]
 	},
-  	{
+	{
 		"ID": 1,
 		"name": "Meldkamer",
 		"prices": {
@@ -55,14 +55,14 @@
 			"coins": 0
 		}
 	},
-  	{
+	{
 		"ID": 2,
 		"name": "Ziekenhuis",
 		"prices": {
 			"credits": 200000,
 			"coins": 35
 		},
-		"extentions":[
+		"extentions": [
 			{
 				"name": "Interne Geneeskunde",
 				"prices": {
@@ -146,7 +146,7 @@
 			}
 		]
 	},
-  	{
+	{
 		"ID": 3,
 		"name": "Ambulance, Standplaats",
 		"prices": {
@@ -170,7 +170,7 @@
 			}
 		]
 	},
-  	{
+	{
 		"ID": 5,
 		"name": "Politie, Opkomstbureau",
 		"prices": {
@@ -199,7 +199,7 @@
 			}
 		]
 	},
-  	{
+	{
 		"ID": 6,
 		"name": "MMT, Standplaats",
 		"prices": {
@@ -207,22 +207,22 @@
 			"coins": 50
 		},
 		"limit": "1 per 10 Ambulance, Standplaats, enz"
-	},	
+	},
 	{
 		"ID": 7,
-	    	"name": "Universiteit Faculteit Geneeskunde",
-			"extentions": [
-				{
-					"name": "Extra klaslokaal",
-					"prices": {
-						"credits": 400000,
-						"coins": 40
-					},
-					"time": "7 dagen",
-					"amountpossible": 3
-				}
-			]
-	},  	
+		"name": "Universiteit Faculteit Geneeskunde",
+		"extentions": [
+			{
+				"name": "Extra klaslokaal",
+				"prices": {
+					"credits": 400000,
+					"coins": 40
+				},
+				"time": "7 dagen",
+				"amountpossible": 3
+			}
+		]
+	},
 	{
 		"ID": 8,
 		"name": "Politie, Academie",
@@ -238,7 +238,7 @@
 			}
 		]
 	},
-  	{
+	{
 		"ID": 9,
 		"name": "Politiehelikoper standplaats",
 		"prices": {
@@ -246,7 +246,7 @@
 			"coins": 50
 		},
 		"limit": "1 per 10 Gebouwen"
-	},	
+	},
 	{
 		"ID": 10,
 		"name": "Uitgangstelling (UGS)",
@@ -255,7 +255,7 @@
 			"coins": 0
 		}
 	},
-  	{
+	{
 		"ID": 11,
 		"name": "Politie, Hoofdbureau",
 		"prices": {
@@ -303,7 +303,7 @@
 	},
 	{
 		"ID": 12,
-	    "name": "Politie, Cellencomplex voor teams",
+		"name": "Politie, Cellencomplex voor teams",
 		"extentions": [
 			{
 				"name": "Gevangeniscel",
@@ -323,5 +323,4 @@
 			}
 		]
 	}
-  ]
-  
+]
