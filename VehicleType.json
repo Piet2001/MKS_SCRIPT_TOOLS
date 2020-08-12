@@ -6,6 +6,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2
 		}
 	},
 	{
@@ -15,6 +19,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 9
 		}
 	},
 	{
@@ -24,7 +32,12 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 30
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 3
+		},
+		"requiredfromFire": 3
 	},
 	{
 		"ID": 3,
@@ -33,7 +46,12 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 1
+		},
+		"requiredfromFire": 6
 	},
 	{
 		"ID": 4,
@@ -42,7 +60,12 @@
 		"prices": {
 			"credits": 12180,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 3
+		},
+		"requiredfromFire": 4
 	},
 	{
 		"ID": 5,
@@ -51,7 +74,12 @@
 		"prices": {
 			"credits": 11680,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 3
+		},
+		"requiredfromFire": 5
 	},
 	{
 		"ID": 6,
@@ -60,6 +88,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 9
 		}
 	},
 	{
@@ -69,6 +101,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 7
 		}
 	},
 	{
@@ -78,6 +114,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+    },
+		"staff": {
+			"min": 1,
+			"max": 5
 		}
 	},
 	{
@@ -87,6 +127,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 5
 		}
 	},
 	{
@@ -96,7 +140,12 @@
 		"prices": {
 			"credits": 17300,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 9
+		},
+		"requiredfromFire": 7
 	},
 	{
 		"ID": 11,
@@ -105,7 +154,13 @@
 		"prices": {
 			"credits": 18300,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 4,
+			"education": "Verkenningseenheid Brandweer (3 dagen)"
+		},
+		"requiredfromFire": 10
 	},
 	{
 		"ID": 12,
@@ -114,6 +169,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+    },
+		"staff": {
+			"min": 1,
+			"max": 9
 		}
 	},
 	{
@@ -123,6 +182,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 7
 		}
 	},
 	{
@@ -132,6 +195,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+    },
+		"staff": {
+			"min": 1,
+			"max": 5
 		}
 	},
 	{
@@ -141,6 +208,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2
 		}
 	},
 	{
@@ -150,6 +221,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 7
 		}
 	},
 	{
@@ -159,7 +234,12 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 30
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 3
+		},
+		"requiredfromFire": 3
 	},
 	{
 		"ID": 19,
@@ -168,7 +248,13 @@
 		"prices": {
 			"credits": 25500,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 1,
+			"education": "Hoofd Officier van Dienst - Brandweer (7 dagen)"
+		},
+		"requiredfromFire": 13
 	},
 	{
 		"ID": 20,
@@ -177,6 +263,10 @@
 		"prices": {
 			"credits": 2000,
 			"coins": 10
+		},
+		"staff": {
+			"min": 1,
+			"max": 4
 		}
 	},
 	{
@@ -186,6 +276,10 @@
 		"prices": {
 			"credits": 2500,
 			"coins": 12
+		},
+		"staff": {
+			"min": 1,
+			"max": 9
 		}
 	},
 	{
@@ -195,6 +289,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2
 		}
 	},
 	{
@@ -204,7 +302,14 @@
 		"prices": {
 			"credits": 500000,
 			"coins": 30
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 3,
+			"education": "MMT-Bemanningslid (7 dagen)"
+		},
+		"limit": "1 per 10 Gebouwen",
+		"requiredfromAmbulance": 10
 	},
 	{
 		"ID": 24,
@@ -213,7 +318,13 @@
 		"prices": {
 			"credits": 19200,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 2,
+			"education": "Adviseur Gevaarlijke Stoffen (6 dagen)"
+		},
+		"requiredfromFire": 11
 	},
 	{
 		"ID": 25,
@@ -222,6 +333,11 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2
+
 		}
 	},
 	{
@@ -231,6 +347,11 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 12
+		},
+		"staff": {
+			"min": 1,
+			"max": 3,
+			"education": "Brandweerchauffeur-zwaar (2 dagen)"
 		}
 	},
 	{
@@ -240,7 +361,15 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
-		}
+		},
+		"staff": {
+			"min": 0,
+			"max": 0
+		},
+		"needvehicle": [
+			"(26) HA | Haakarmbakvoertuig"
+		],
+		"requiredfromFire": 5
 	},
 	{
 		"ID": 28,
@@ -249,6 +378,11 @@
 		"prices": {
 			"credits": 300000,
 			"coins": 30
+		},
+		"staff": {
+			"min": 1,
+			"max": 2,
+			"education": "Politiehelikopter (7 dagen)"
 		}
 	},
 	{
@@ -258,7 +392,15 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
-		}
+		},
+		"staff": {
+			"min": 0,
+			"max": 0
+		},
+		"needvehicle": [
+			"(26) HA | Haakarmbakvoertuig"
+		],
+		"requiredfromFire": 7
 	},
 	{
 		"ID": 30,
@@ -267,6 +409,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2
 		}
 	},
 	{
@@ -276,7 +422,13 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 3,
+			"education": "Brandweerchauffeur-zwaar (2 dagen)"
+		},
+		"requiredfromFire": 14
 	},
 	{
 		"ID": 32,
@@ -285,7 +437,15 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
-		}
+		},
+		"staff": {
+			"min": 0,
+			"max": 0
+		},
+		"needvehicle": [
+			"(26) HA | Haakarmbakvoertuig"
+		],
+		"requiredfromFire": 14
 	},
 	{
 		"ID": 33,
@@ -294,6 +454,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 4,
+			"max": 6,
+			"education": "Duiker/Duikploegleider (7 dagen)"
 		}
 	},
 	{
@@ -303,7 +468,12 @@
 		"prices": {
 			"credits": 17000,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 3
+		},
+		"requiredfromFire": 7
 	},
 	{
 		"ID": 35,
@@ -312,7 +482,13 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 1,
+			"education": "Officier van Dienst - Politie (7 dagen)"
+		},
+		"requiredfromPolice": 5
 	},
 	{
 		"ID": 36,
@@ -321,7 +497,27 @@
 		"prices": {
 			"credits": 9000,
 			"coins": 12
-		}
+		},
+		"staff": {
+			"min": 0,
+			"max": 0
+		},
+		"needvehicle": [
+			"(0) SI-2 | Snel Inzetbare Eenheid (2 pers.)",
+			"(1) TS 8/9 | Tankautospuit (8/9 personen)",
+			"(4) HV | Hulpverleningsvoertuig",
+			"(6) TST 8/9 | Tankautospuit Terreinvaardig (8/9 personen)",
+			"(7) TST 6/7 | Tankautospuit Terreinvaardig (6/7 personen)",
+			"(8) TST 4/5 | Tankautospuit Terreinvaardig (4/5 personen)",
+			"(9) TS 4/5 | Tankautospuit (4/5 personen)",
+			"(12) TST-NB 8/9 | Tankautospuit Natuurbrandbestrijding (8/9 personen)",
+			"(14) TST-NB 6/7 | Tankautospuit Natuurbrandbestrijding (6/7 personen)",
+			"(15) TST-NB 4/5 | Tankautospuit Natuurbrandbestrijding (4/5 personen)",
+			"(17) TS 6/7 | Tankautospuit (6/7 personen)",
+			"(21) DB-K | Dienstbus klein (9 personen)",
+			"(33) WO | Waterongevallenvoertuig",
+			"(49) PM-OR | Materieelvoertuig - Oppervlakteredding"
+		]
 	},
 	{
 		"ID": 37,
@@ -330,7 +526,14 @@
 		"prices": {
 			"credits": 30000,
 			"coins": 12
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 4,
+			"education": "MMT-Bemanningslid (7 dagen)"
+		},
+		"limit": "1 per 10 Ambulance, Standplaats, enz",
+		"requiredfromAmbulance": 10
 	},
 	{
 		"ID": 38,
@@ -339,7 +542,13 @@
 		"prices": {
 			"credits": 25000,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 1,
+			"education": "Officier van Dienst Geneeskunde (11 dagen)"
+		},
+		"requiredfromAmbulance": 8
 	},
 	{
 		"ID": 39,
@@ -348,6 +557,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 3,
+			"education": "Mobiele Eenheid (4 dagen)"
 		}
 	},
 	{
@@ -357,6 +571,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 4,
+			"max": 8,
+			"education": "Mobiele Eenheid (4 dagen)"
 		}
 	},
 	{
@@ -366,6 +585,11 @@
 		"prices": {
 			"credits": 60000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 2,
+			"max": 3,
+			"education": "Vliegtuigbrandbestrijding (7 dagen)"
 		}
 	},
 	{
@@ -375,6 +599,11 @@
 		"prices": {
 			"credits": 40000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 2,
+			"max": 3,
+			"education": "Vliegtuigbrandbestrijding (7 dagen)"
 		}
 	},
 	{
@@ -384,6 +613,11 @@
 		"prices": {
 			"credits": 15000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 2,
+			"max": 3,
+			"education": "Vliegtuigbrandbestrijding (7 dagen)"
 		}
 	},
 	{
@@ -393,6 +627,11 @@
 		"prices": {
 			"credits": 12000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2,
+			"education": "Airport Fire Officer / On Scene Commander (7 dagen)"
 		}
 	},
 	{
@@ -402,7 +641,15 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
-		}
+		},
+		"staff": {
+			"min": 0,
+			"max": 0
+		},
+		"needvehicle": [
+			"(26) HA | Haakarmbakvoertuig"
+		],
+		"requiredfromFire": 7
 	},
 	{
 		"ID": 46,
@@ -411,6 +658,10 @@
 		"prices": {
 			"credits": 2500,
 			"coins": 18
+		},
+		"staff": {
+			"min": 1,
+			"max": 1
 		}
 	},
 	{
@@ -420,6 +671,11 @@
 		"prices": {
 			"credits": 8000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2,
+			"education": "Hondengeleider (7 dagen)"
 		}
 	},
 	{
@@ -429,6 +685,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2,
+			"education": "Hondengeleider (7 dagen)"
 		}
 	},
 	{
@@ -438,6 +699,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 4,
+			"max": 9,
+			"education": "Oppervlakteredder (7 dagen)"
 		}
 	},
 	{
@@ -447,6 +713,11 @@
 		"prices": {
 			"credits": 12500,
 			"coins": 25
+    },
+		"staff": {
+			"min": 4,
+			"max": 9,
+			"education": "Oppervlakteredder (7 dagen)"
 		}
 	},
 	{
@@ -456,7 +727,15 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 12
-		}
+    },
+		"staff": {
+			"min": 0,
+			"max": 0
+		},
+		"needvehicle": [
+			"(26) HA | Haakarmbakvoertuig"
+		],
+		"requiredfromFire": 4
 	},
 	{
 		"ID": 52,
@@ -465,6 +744,10 @@
 		"prices": {
 			"credits": 2500,
 			"coins": 18
+		},
+		"staff": {
+			"min": 1,
+			"max": 1
 		}
 	},
 	{
@@ -474,6 +757,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2,
+			"education": "Operator AT (10 dagen)"
 		}
 	},
 	{
@@ -483,6 +771,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 2,
+			"max": 4,
+			"education": "Operator AT (10 dagen)"
 		}
 	},
 	{
@@ -492,6 +785,11 @@
 		"prices": {
 			"credits": 15000,
 			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2,
+			"education": "Operator AT (10 dagen)"
 		}
 	},
 	{
@@ -501,7 +799,13 @@
 		"prices": {
 			"credits": 15000,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 2,
+			"education": "Voorlichter (5 dagen)"
+		},
+		"requiredfromFire": 14
 	},
 	{
 		"ID": 57,
@@ -510,6 +814,12 @@
 		"prices": {
 			"credits": 27500,
 			"coins": 25
-		}
+		},
+		"staff": {
+			"min": 1,
+			"max": 1,
+			"education": "Officier van Dienst Geneeskunde (11 dagen)"
+		},
+		"requiredfromAmbulance": 8
 	}
 ]
