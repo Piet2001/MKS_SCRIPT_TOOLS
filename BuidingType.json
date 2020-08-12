@@ -1,55 +1,327 @@
 [
 	{
 		"ID": 0,
-		"name": "Brandweer, Kazerne"
+		"name": "Brandweer, Kazerne",
+		"prices": {
+			"credits": 100000,
+			"coins": 20,
+			"info": ">24 price increase."
+		},
+		"extentions": [
+			{
+				"name": "Ambulance standplaats",
+				"prices": {
+					"credits": 100000,
+					"coins": 20
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Waterongevallenbestrijding",
+				"prices": {
+					"credits": 400000,
+					"coins": 25
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Vliegtuigbrandbestrijding",
+				"prices": {
+					"credits": 400000,
+					"coins": 25
+				},
+				"time": "7 dagen",
+				"amountpossible": 1,
+				"limit": "1 per 10 Brandweer, Kazerne"
+			},
+			{
+				"name": "Haakarmbak parkeerplaats",
+				"prices": {
+					"credits": 100000,
+					"coins": 20
+				},
+				"time": "7 dagen",
+				"amountpossible": 6
+			}
+		]
 	},
   	{
 		"ID": 1,
-		"name": "Meldkamer"
+		"name": "Meldkamer",
+		"prices": {
+			"credits": 0,
+			"coins": 0
+		}
 	},
   	{
 		"ID": 2,
-		"name": "Ziekenhuis"
+		"name": "Ziekenhuis",
+		"prices": {
+			"credits": 200000,
+			"coins": 35
+		},
+		"extentions":[
+			{
+				"name": "Interne Geneeskunde",
+				"prices": {
+					"credits": 10000,
+					"coins": 10
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Algemene Heelkunde",
+				"prices": {
+					"credits": 10000,
+					"coins": 10
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Gynaecologie",
+				"prices": {
+					"credits": 70000,
+					"coins": 10
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Urologie",
+				"prices": {
+					"credits": 70000,
+					"coins": 10
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Traumatologie",
+				"prices": {
+					"credits": 70000,
+					"coins": 10
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Neurologie",
+				"prices": {
+					"credits": 70000,
+					"coins": 10
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Neurochirurgie",
+				"prices": {
+					"credits": 70000,
+					"coins": 10
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Cardiologie",
+				"prices": {
+					"credits": 70000,
+					"coins": 10
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Cardiochirurgie",
+				"prices": {
+					"credits": 70000,
+					"coins": 10
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			}
+		]
 	},
   	{
 		"ID": 3,
-		"name": "Ambulance, Standplaats"
+		"name": "Ambulance, Standplaats",
+		"prices": {
+			"credits": 200000,
+			"coins": 35,
+			"info": "VWS-post = 100000 credits / 25 coins"
+		}
 	},
 	{
 		"ID": 4,
-		"name": "Brandweer, Academie"
+		"name": "Brandweer, Academie",
+		"extentions": [
+			{
+				"name": "Extra klaslokaal",
+				"prices": {
+					"credits": 400000,
+					"coins": 40
+				},
+				"time": "7 dagen",
+				"amountpossible": 3
+			}
+		]
 	},
   	{
 		"ID": 5,
-		"name": "Politie, Opkomstbureau"
+		"name": "Politie, Opkomstbureau",
+		"prices": {
+			"credits": 100000,
+			"coins": 20,
+			"info": ">24 price increase."
+		},
+		"extentions": [
+			{
+				"name": "Gevangeniscel",
+				"prices": {
+					"credits": 25000,
+					"coins": 5
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Extra cel",
+				"prices": {
+					"credits": 25000,
+					"coins": 5
+				},
+				"time": "7 dagen",
+				"amountpossible": 9
+			}
+		]
 	},
   	{
 		"ID": 6,
-		"name": "MMT, Standplaats"
+		"name": "MMT, Standplaats",
+		"prices": {
+			"credits": 800000,
+			"coins": 50
+		},
+		"limit": "1 per 10 Ambulance, Standplaats, enz"
 	},	
 	{
 		"ID": 7,
-	    	"name": "Universiteit Faculteit Geneeskunde"
+	    	"name": "Universiteit Faculteit Geneeskunde",
+			"extentions": [
+				{
+					"name": "Extra klaslokaal",
+					"prices": {
+						"credits": 400000,
+						"coins": 40
+					},
+					"time": "7 dagen",
+					"amountpossible": 3
+				}
+			]
 	},  	
 	{
 		"ID": 8,
-		"name": "Politie, Academie"
+		"name": "Politie, Academie",
+		"extentions": [
+			{
+				"name": "Extra klaslokaal",
+				"prices": {
+					"credits": 400000,
+					"coins": 40
+				},
+				"time": "7 dagen",
+				"amountpossible": 3
+			}
+		]
 	},
   	{
 		"ID": 9,
-		"name": "Politiehelikoper standplaats"
+		"name": "Politiehelikoper standplaats",
+		"prices": {
+			"credits": 1000000,
+			"coins": 50
+		},
+		"limit": "1 per 10 Gebouwen"
 	},	
 	{
 		"ID": 10,
-		"name": "Uitgangstelling (UGS)"
+		"name": "Uitgangstelling (UGS)",
+		"prices": {
+			"credits": 0,
+			"coins": 0
+		}
 	},
   	{
 		"ID": 11,
-		"name": "Politie, Hoofdbureau"
+		"name": "Politie, Hoofdbureau",
+		"prices": {
+			"credits": 400000,
+			"coins": 40
+		},
+		"extentions": [
+			{
+				"name": "2e OvD-P",
+				"prices": {
+					"credits": 40000,
+					"coins": 5
+				},
+				"time": "3 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Mobiele Eenheid, Sectie",
+				"prices": {
+					"credits": 100000,
+					"coins": 20
+				},
+				"time": "5 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Levende Have",
+				"prices": {
+					"credits": 100000,
+					"coins": 20
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Arrestatieteam",
+				"prices": {
+					"credits": 200000,
+					"coins": 20
+				},
+				"time": "5 dagen",
+				"amountpossible": 1
+			}
+		]
 	},
 	{
 		"ID": 12,
-	    	"name": "Politie, Cellencomplex voor teams"
+	    "name": "Politie, Cellencomplex voor teams",
+		"extentions": [
+			{
+				"name": "Gevangeniscel",
+				"prices": {
+					"credits": 25000
+				},
+				"time": "7 dagen",
+				"amountpossible": 1
+			},
+			{
+				"name": "Extra cel",
+				"prices": {
+					"credits": 25000
+				},
+				"time": "7 dagen",
+				"amountpossible": 9
+			}
+		]
 	}
   ]
   
