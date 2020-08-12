@@ -159,6 +159,10 @@
 	{
 		"ID": 4,
 		"name": "Brandweer, Academie",
+		"prices": {
+			"credits": 500000,
+			"coins": 50
+		},
 		"extentions": [
 			{
 				"name": "Extra klaslokaal",
@@ -212,6 +216,10 @@
 	{
 		"ID": 7,
 		"name": "Universiteit Faculteit Geneeskunde",
+		"prices": {
+			"credits": 500000,
+			"coins": 50
+		},
 		"extentions": [
 			{
 				"name": "Extra klaslokaal",
@@ -227,6 +235,10 @@
 	{
 		"ID": 8,
 		"name": "Politie, Academie",
+		"prices": {
+			"credits": 500000,
+			"coins": 50
+		},
 		"extentions": [
 			{
 				"name": "Extra klaslokaal",
