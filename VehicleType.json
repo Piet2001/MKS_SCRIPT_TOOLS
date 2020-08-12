@@ -6,6 +6,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal": {
+			"min": 1,
+			"max": 2
 		}
 	},
 	{
@@ -15,6 +19,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 9
 		}
 	},
 	{
@@ -24,6 +32,10 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 30
+		},
+		"personal":{
+			"min": 1,
+			"max": 3
 		}
 	},
 	{
@@ -33,6 +45,10 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 1
 		}
 	},
 	{
@@ -42,6 +58,10 @@
 		"prices": {
 			"credits": 12180,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 3
 		}
 	},
 	{
@@ -51,6 +71,10 @@
 		"prices": {
 			"credits": 11680,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 3
 		}
 	},
 	{
@@ -60,6 +84,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 9
 		}
 	},
 	{
@@ -69,6 +97,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 7
 		}
 	},
 	{
@@ -78,6 +110,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 5
 		}
 	},
 	{
@@ -87,6 +123,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 5
 		}
 	},
 	{
@@ -96,6 +136,10 @@
 		"prices": {
 			"credits": 17300,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 9
 		}
 	},
 	{
@@ -105,6 +149,11 @@
 		"prices": {
 			"credits": 18300,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 4,
+			"education": "Verkenningseenheid Brandweer (3 dagen)"
 		}
 	},
 	{
@@ -114,6 +163,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 9
 		}
 	},
 	{
@@ -123,6 +176,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 7
 		}
 	},
 	{
@@ -132,6 +189,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 5
 		}
 	},
 	{
@@ -141,6 +202,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2
 		}
 	},
 	{
@@ -150,6 +215,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 7
 		}
 	},
 	{
@@ -159,6 +228,10 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 30
+		},
+		"personal":{
+			"min": 1,
+			"max": 3
 		}
 	},
 	{
@@ -168,6 +241,11 @@
 		"prices": {
 			"credits": 25500,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 1,
+			"education": "Hoofd Officier van Dienst - Brandweer (7 dagen)"
 		}
 	},
 	{
@@ -177,6 +255,10 @@
 		"prices": {
 			"credits": 2000,
 			"coins": 10
+		},
+		"personal":{
+			"min": 1,
+			"max": 4
 		}
 	},
 	{
@@ -186,6 +268,10 @@
 		"prices": {
 			"credits": 2500,
 			"coins": 12
+		},
+		"personal":{
+			"min": 1,
+			"max": 9
 		}
 	},
 	{
@@ -195,6 +281,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2
 		}
 	},
 	{
@@ -204,6 +294,11 @@
 		"prices": {
 			"credits": 500000,
 			"coins": 30
+		},
+		"personal":{
+			"min": 1,
+			"max": 3,
+			"education": "MMT-Bemanningslid (7 dagen)"
 		}
 	},
 	{
@@ -213,6 +308,11 @@
 		"prices": {
 			"credits": 19200,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2,
+			"education": "Adviseur Gevaarlijke Stoffen (6 dagen)"
 		}
 	},
 	{
@@ -222,6 +322,10 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2
 		}
 	},
 	{
@@ -231,6 +335,11 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 12
+		},
+		"personal":{
+			"min": 1,
+			"max": 3,
+			"education": "Brandweerchauffeur-zwaar (2 dagen)"
 		}
 	},
 	{
@@ -240,6 +349,10 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
+		},
+		"personal":{
+			"min": 0,
+			"max": 0
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
@@ -252,6 +365,11 @@
 		"prices": {
 			"credits": 300000,
 			"coins": 30
+		},
+		"personal":{
+			"min": 1,
+			"max": 2,
+			"education": "Politiehelikopter (7 dagen)"
 		}
 	},
 	{
@@ -261,6 +379,10 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
+		},
+		"personal":{
+			"min": 0,
+			"max": 0
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
@@ -273,6 +395,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2
 		}
 	},
 	{
@@ -282,6 +408,11 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
+		},
+		"personal":{
+			"min": 1,
+			"max": 3,
+			"education": "Brandweerchauffeur-zwaar (2 dagen)"
 		}
 	},
 	{
@@ -291,6 +422,10 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
+		},
+		"personal":{
+			"min": 0,
+			"max": 0
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
@@ -303,6 +438,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 4,
+			"max": 6,
+			"education": "Duiker/Duikploegleider (7 dagen)"
 		}
 	},
 	{
@@ -312,6 +452,10 @@
 		"prices": {
 			"credits": 17000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 3
 		}
 	},
 	{
@@ -321,6 +465,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 1,
+			"education": "Officier van Dienst - Politie (7 dagen)"
 		}
 	},
 	{
@@ -330,6 +479,10 @@
 		"prices": {
 			"credits": 9000,
 			"coins": 12
+		},
+		"personal":{
+			"min": 0,
+			"max": 0
 		},
 		"needvehicle":[ 
 			"(0) SI-2 | Snel Inzetbare Eenheid (2 pers.)",
@@ -345,7 +498,7 @@
 			"(17) TS 6/7 | Tankautospuit (6/7 personen)",
 			"(21) DB-K | Dienstbus klein (9 personen)",
 			"(33) WO | Waterongevallenvoertuig",
-			"(49) PM-OR | Materieelvoertuig - Oppervlaktereddin"
+			"(49) PM-OR | Materieelvoertuig - Oppervlakteredding"
 		]
 	},
 	{
@@ -355,6 +508,11 @@
 		"prices": {
 			"credits": 30000,
 			"coins": 12
+		},
+		"personal":{
+			"min": 1,
+			"max": 4,
+			"education": "MMT-Bemanningslid (7 dagen)"
 		}
 	},
 	{
@@ -364,6 +522,11 @@
 		"prices": {
 			"credits": 25000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 1,
+			"education": "Officier van Dienst Geneeskunde (11 dagen)"
 		}
 	},
 	{
@@ -373,6 +536,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 3,
+			"education": "Mobiele Eenheid (4 dagen)"
 		}
 	},
 	{
@@ -382,6 +550,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 4,
+			"max": 8,
+			"education": "Mobiele Eenheid (4 dagen)"
 		}
 	},
 	{
@@ -391,6 +564,11 @@
 		"prices": {
 			"credits": 60000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 2,
+			"max": 3,
+			"education": "Vliegtuigbrandbestrijding (7 dagen)"
 		}
 	},
 	{
@@ -400,6 +578,11 @@
 		"prices": {
 			"credits": 40000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 2,
+			"max": 3,
+			"education": "Vliegtuigbrandbestrijding (7 dagen)"
 		}
 	},
 	{
@@ -409,6 +592,11 @@
 		"prices": {
 			"credits": 15000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 2,
+			"max": 3,
+			"education": "Vliegtuigbrandbestrijding (7 dagen)"
 		}
 	},
 	{
@@ -418,6 +606,11 @@
 		"prices": {
 			"credits": 12000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2,
+			"education": "Airport Fire Officer / On Scene Commander (7 dagen)"
 		}
 	},
 	{
@@ -427,6 +620,10 @@
 		"prices": {
 			"credits": 6000,
 			"coins": 12
+		},
+		"personal":{
+			"min": 0,
+			"max": 0
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
@@ -439,6 +636,10 @@
 		"prices": {
 			"credits": 2500,
 			"coins": 18
+		},
+		"personal":{
+			"min": 1,
+			"max": 1
 		}
 	},
 	{
@@ -448,6 +649,11 @@
 		"prices": {
 			"credits": 8000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2,
+			"education": "Hondengeleider (7 dagen)"
 		}
 	},
 	{
@@ -457,6 +663,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2,
+			"education": "Hondengeleider (7 dagen)"
 		}
 	},
 	{
@@ -466,6 +677,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 4,
+			"max": 9,
+			"education": "Oppervlakteredder (7 dagen)"
 		}
 	},
 	{
@@ -475,6 +691,11 @@
 		"prices": {
 			"credits": 12500,
 			"coins": 25
+		},
+		"personal":{
+			"min": 4,
+			"max": 9,
+			"education": "Oppervlakteredder (7 dagen)"
 		}
 	},
 	{
@@ -484,6 +705,10 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 12
+		},
+		"personal":{
+			"min": 0,
+			"max": 0
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
@@ -496,6 +721,10 @@
 		"prices": {
 			"credits": 2500,
 			"coins": 18
+		},
+		"personal":{
+			"min": 1,
+			"max": 1
 		}
 	},
 	{
@@ -505,6 +734,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2,
+			"education": "Operator AT (10 dagen)"
 		}
 	},
 	{
@@ -514,6 +748,11 @@
 		"prices": {
 			"credits": 10000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 2,
+			"max": 4,
+			"education": "Operator AT (10 dagen)"
 		}
 	},
 	{
@@ -523,6 +762,11 @@
 		"prices": {
 			"credits": 15000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2,
+			"education": "Operator AT (10 dagen)"
 		}
 	},
 	{
@@ -532,6 +776,11 @@
 		"prices": {
 			"credits": 15000,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 2,
+			"education": "Voorlichter (5 dagen)"
 		}
 	},
 	{
@@ -541,6 +790,11 @@
 		"prices": {
 			"credits": 27500,
 			"coins": 25
+		},
+		"personal":{
+			"min": 1,
+			"max": 1,
+			"education": "Officier van Dienst Geneeskunde (11 dagen)"
 		}
 	}
 ]
