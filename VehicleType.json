@@ -36,7 +36,8 @@
 		"staff":{
 			"min": 1,
 			"max": 3
-		}
+		},
+		"requiredfromFire": 3
 	},
 	{
 		"ID": 3,
@@ -49,7 +50,8 @@
 		"staff":{
 			"min": 1,
 			"max": 1
-		}
+		},
+		"requiredfromFire": 6
 	},
 	{
 		"ID": 4,
@@ -62,7 +64,8 @@
 		"staff":{
 			"min": 1,
 			"max": 3
-		}
+		},
+		"requiredfromFire": 4
 	},
 	{
 		"ID": 5,
@@ -75,7 +78,8 @@
 		"staff":{
 			"min": 1,
 			"max": 3
-		}
+		},
+		"requiredfromFire": 5
 	},
 	{
 		"ID": 6,
@@ -140,7 +144,8 @@
 		"staff":{
 			"min": 1,
 			"max": 9
-		}
+		},
+		"requiredfromFire": 7
 	},
 	{
 		"ID": 11,
@@ -154,7 +159,8 @@
 			"min": 1,
 			"max": 4,
 			"education": "Verkenningseenheid Brandweer (3 dagen)"
-		}
+		},
+		"requiredfromFire": 10
 	},
 	{
 		"ID": 12,
@@ -232,7 +238,8 @@
 		"staff":{
 			"min": 1,
 			"max": 3
-		}
+		},
+		"requiredfromFire": 3
 	},
 	{
 		"ID": 19,
@@ -246,7 +253,8 @@
 			"min": 1,
 			"max": 1,
 			"education": "Hoofd Officier van Dienst - Brandweer (7 dagen)"
-		}
+		},
+		"requiredfromFire": 13
 	},
 	{
 		"ID": 20,
@@ -299,7 +307,9 @@
 			"min": 1,
 			"max": 3,
 			"education": "MMT-Bemanningslid (7 dagen)"
-		}
+		},
+		"limit": "1 per 10 Gebouwen",
+		"requiredfromAmbulance": 10
 	},
 	{
 		"ID": 24,
@@ -313,7 +323,8 @@
 			"min": 1,
 			"max": 2,
 			"education": "Adviseur Gevaarlijke Stoffen (6 dagen)"
-		}
+		},
+		"requiredfromFire": 11
 	},
 	{
 		"ID": 25,
@@ -356,7 +367,8 @@
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
-		] 
+		],
+		"requiredfromFire": 5
 	},
 	{
 		"ID": 28,
@@ -386,7 +398,8 @@
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
-		]
+		],
+		"requiredfromFire": 7
 	},
 	{
 		"ID": 30,
@@ -413,7 +426,8 @@
 			"min": 1,
 			"max": 3,
 			"education": "Brandweerchauffeur-zwaar (2 dagen)"
-		}
+		},
+		"requiredfromFire": 14
 	},
 	{
 		"ID": 32,
@@ -429,7 +443,8 @@
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
-		]
+		],
+		"requiredfromFire": 14
 	},
 	{
 		"ID": 33,
@@ -456,7 +471,8 @@
 		"staff":{
 			"min": 1,
 			"max": 3
-		}
+		},
+		"requiredfromFire": 7
 	},
 	{
 		"ID": 35,
@@ -470,7 +486,8 @@
 			"min": 1,
 			"max": 1,
 			"education": "Officier van Dienst - Politie (7 dagen)"
-		}
+		},
+		"requiredfromPolice": 5
 	},
 	{
 		"ID": 36,
@@ -513,7 +530,9 @@
 			"min": 1,
 			"max": 4,
 			"education": "MMT-Bemanningslid (7 dagen)"
-		}
+		},
+		"limit": "1 per 10 Ambulance, Standplaats, enz",
+		"requiredfromAmbulance": 10
 	},
 	{
 		"ID": 38,
@@ -527,7 +546,8 @@
 			"min": 1,
 			"max": 1,
 			"education": "Officier van Dienst Geneeskunde (11 dagen)"
-		}
+		},
+		"requiredfromAmbulance": 8
 	},
 	{
 		"ID": 39,
@@ -627,7 +647,8 @@
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
-		]
+		],
+		"requiredfromFire": 7
 	},
 	{
 		"ID": 46,
@@ -712,7 +733,8 @@
 		},
 		"needvehicle":[
 			"(26) HA | Haakarmbakvoertuig"
-		]
+		],
+		"requiredfromFire": 4
 	},
 	{
 		"ID": 52,
@@ -781,7 +803,8 @@
 			"min": 1,
 			"max": 2,
 			"education": "Voorlichter (5 dagen)"
-		}
+		},
+		"requiredfromFire": 14
 	},
 	{
 		"ID": 57,
@@ -795,6 +818,7 @@
 			"min": 1,
 			"max": 1,
 			"education": "Officier van Dienst Geneeskunde (11 dagen)"
-		}
+		},
+		"requiredfromAmbulance": 8
 	}
 ]
