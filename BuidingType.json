@@ -2,10 +2,11 @@
 	{
 		"ID": 0,
 		"name": "Brandweer, Kazerne",
+		"levelmax": 24,
 		"prices": {
 			"credits": 100000,
 			"coins": 20,
-			"info": ">24 price increase."
+			"info": ">24 prijs wordt hoger."
 		},
 		"extentions": [
 			{
@@ -43,7 +44,7 @@
 					"coins": 20
 				},
 				"time": "7 dagen",
-				"numberpossible": 6
+				"numberpossible": 10
 			}
 		]
 	},
@@ -59,6 +60,7 @@
 	{
 		"ID": 2,
 		"name": "Ziekenhuis",
+		"levelmax": 20,
 		"prices": {
 			"credits": 200000,
 			"coins": 35
@@ -150,6 +152,7 @@
 	{
 		"ID": 3,
 		"name": "Ambulance, Standplaats",
+		"levelmax": 19,
 		"prices": {
 			"credits": 200000,
 			"coins": 35,
@@ -159,6 +162,10 @@
 	{
 		"ID": 4,
 		"name": "Brandweer, Academie",
+		"prices": {
+			"credits": 500000,
+			"coins": 50
+		},
 		"extentions": [
 			{
 				"name": "Extra klaslokaal",
@@ -174,10 +181,11 @@
 	{
 		"ID": 5,
 		"name": "Politie, Opkomstbureau",
+		"levelmax": 19,
 		"prices": {
 			"credits": 100000,
 			"coins": 20,
-			"info": ">24 price increase."
+			"info": ">24 prijs wordt hoger."
 		},
 		"extentions": [
 			{
@@ -203,6 +211,7 @@
 	{
 		"ID": 6,
 		"name": "MMT, Standplaats",
+		"levelmax": 43,
 		"prices": {
 			"credits": 800000,
 			"coins": 50
@@ -212,6 +221,10 @@
 	{
 		"ID": 7,
 		"name": "Universiteit Faculteit Geneeskunde",
+		"prices": {
+			"credits": 500000,
+			"coins": 50
+		},
 		"extentions": [
 			{
 				"name": "Extra klaslokaal",
@@ -227,6 +240,10 @@
 	{
 		"ID": 8,
 		"name": "Politie, Academie",
+		"prices": {
+			"credits": 500000,
+			"coins": 50
+		},
 		"extentions": [
 			{
 				"name": "Extra klaslokaal",
@@ -305,6 +322,9 @@
 	{
 		"ID": 12,
 		"name": "Politie, Cellencomplex voor teams",
+		"prices": {
+			"credits": 100000
+		},
 		"extentions": [
 			{
 				"name": "Gevangeniscel",
