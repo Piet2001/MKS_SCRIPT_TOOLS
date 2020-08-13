@@ -13,7 +13,8 @@ A list of the availible JSON:
 - [POI's](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/POI.json)
 
 Missing anything? Create an [issue](https://github.com/Piet2001/MKS_SCRIPT_TOOLS/issues/new)!
-Also for other contact you can create an issue!
+Also for other contact you can create an issue!  
+Or contact me on [discord](https://discord.gg/6gMY9vw)
 
 Sent me a message when you are using one of this files. En we'll add your script to the supporters list.
 
