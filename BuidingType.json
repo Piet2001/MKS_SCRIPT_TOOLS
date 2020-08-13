@@ -2,7 +2,7 @@
 	{
 		"ID": 0,
 		"name": "Brandweer, Kazerne",
-		"levelmax": 16,
+		"levelmax": 24,
 		"prices": {
 			"credits": 100000,
 			"coins": 20,
@@ -44,7 +44,7 @@
 					"coins": 20
 				},
 				"time": "7 dagen",
-				"numberpossible": 6
+				"numberpossible": 10
 			}
 		]
 	},
@@ -152,7 +152,7 @@
 	{
 		"ID": 3,
 		"name": "Ambulance, Standplaats",
-		"levelmax": 14,
+		"levelmax": 19,
 		"prices": {
 			"credits": 200000,
 			"coins": 35,
@@ -181,7 +181,7 @@
 	{
 		"ID": 5,
 		"name": "Politie, Opkomstbureau",
-		"levelmax": 14,
+		"levelmax": 19,
 		"prices": {
 			"credits": 100000,
 			"coins": 20,
