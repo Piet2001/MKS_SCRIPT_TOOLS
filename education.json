@@ -1,0 +1,78 @@
+[
+    {
+        "brandweer":[
+            {
+                "name": "Verkenningseenheid Brandweer",
+                "time": "3 dagen"
+            },
+            {
+                "name": "Hoofd Officier van Dienst - Brandweer",
+                "time": "7 dagen"
+            },
+            {
+                "name": "Adviseur Gevaarlijke Stoffen",
+                "time": "6 dagen"
+            },
+            {
+                "name": "Brandweerchauffeur-zwaar",
+                "time": "2 dagen"
+            },
+            {
+                "name": "Duiker/Duikploegleider",
+                "time": "7 dagen"
+            },
+            {
+                "name": "Vliegtuigbrandbestrijding",
+                "time": "7 dagen"
+            },
+            {
+                "name": "Airport Fire Officer / On Scene Commander",
+                "time": "7 dagen"
+            },
+            {
+                "name": "Oppervlakteredder",
+                "time": "7 dagen"
+            },
+            {
+                "name": "Voorlichter",
+                "time": "5 dagen"
+            }        
+        ]
+    },
+    {
+        "politie":[
+            {
+                "name": "Politiehelikopter",
+                "time": "7 dagen"
+            },
+            {
+                "name": "Officier van Dienst - Politie",
+                "time": "7 dagen"
+            },
+            {
+                "name": "Mobiele Eenheid",
+                "time": "4 dagen"
+            },
+            {
+                "name": "Hondengeleider",
+                "time": "7 dagen"
+            },
+            {
+                "name": "Operator AT",
+                "time": "10 dagen"
+            }
+        ]
+    },
+    {
+        "ambulance":[
+            {
+                "name": "MMT-Bemanningslid",
+                "time": "7 dagen"
+            },
+            {
+                "name": "Officier van Dienst Geneeskunde",
+                "time": "11 dagen"
+            }
+        ]
+    }
+]
