@@ -114,7 +114,7 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
-    },
+		},
 		"staff": {
 			"min": 1,
 			"max": 5
@@ -169,7 +169,7 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
-    },
+		},
 		"staff": {
 			"min": 1,
 			"max": 9
@@ -195,7 +195,7 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 25
-    },
+		},
 		"staff": {
 			"min": 1,
 			"max": 5
@@ -337,7 +337,6 @@
 		"staff": {
 			"min": 1,
 			"max": 2
-
 		}
 	},
 	{
@@ -367,7 +366,11 @@
 			"max": 0
 		},
 		"needvehicle": [
-			"(26) HA | Haakarmbakvoertuig"
+			{
+				"ID": 26,
+				"name": "HA",
+				"namelong": "Haakarmvoertuig"
+			}
 		],
 		"requiredfromFire": 5
 	},
@@ -398,7 +401,11 @@
 			"max": 0
 		},
 		"needvehicle": [
-			"(26) HA | Haakarmbakvoertuig"
+			{
+				"ID": 26,
+				"name": "HA",
+				"namelong": "Haakarmvoertuig"
+			}
 		],
 		"requiredfromFire": 7
 	},
@@ -443,7 +450,11 @@
 			"max": 0
 		},
 		"needvehicle": [
-			"(26) HA | Haakarmbakvoertuig"
+			{
+				"ID": 26,
+				"name": "HA",
+				"namelong": "Haakarmvoertuig"
+			}
 		],
 		"requiredfromFire": 14
 	},
@@ -503,20 +514,76 @@
 			"max": 0
 		},
 		"needvehicle": [
-			"(0) SI-2 | Snel Inzetbare Eenheid (2 pers.)",
-			"(1) TS 8/9 | Tankautospuit (8/9 personen)",
-			"(4) HV | Hulpverleningsvoertuig",
-			"(6) TST 8/9 | Tankautospuit Terreinvaardig (8/9 personen)",
-			"(7) TST 6/7 | Tankautospuit Terreinvaardig (6/7 personen)",
-			"(8) TST 4/5 | Tankautospuit Terreinvaardig (4/5 personen)",
-			"(9) TS 4/5 | Tankautospuit (4/5 personen)",
-			"(12) TST-NB 8/9 | Tankautospuit Natuurbrandbestrijding (8/9 personen)",
-			"(14) TST-NB 6/7 | Tankautospuit Natuurbrandbestrijding (6/7 personen)",
-			"(15) TST-NB 4/5 | Tankautospuit Natuurbrandbestrijding (4/5 personen)",
-			"(17) TS 6/7 | Tankautospuit (6/7 personen)",
-			"(21) DB-K | Dienstbus klein (9 personen)",
-			"(33) WO | Waterongevallenvoertuig",
-			"(49) PM-OR | Materieelvoertuig - Oppervlakteredding"
+			{
+				"ID": 0,
+				"name": "SI-2",
+				"namelong": "Snel Inzetbare Eenheid (2 pers.)"
+			},
+			{
+				"ID": 1,
+				"name": "TS 8/9",
+				"namelong": "Tankautospuit (8/9 personen)"
+			},
+			{
+				"ID": 4,
+				"name": "HV",
+				"namelong": "Hulpverleningsvoertuig"
+			},
+			{
+				"ID": 6,
+				"name": "TST 8/9 ",
+				"namelong": "Tankautospuit Terreinvaardig (8/9 personen)"
+			},
+			{
+				"ID": 7,
+				"name": "TST 6/7",
+				"namelong": "Tankautospuit Terreinvaardig (6/7 personen)"
+			},
+			{
+				"ID": 8,
+				"name": "TST 4/5",
+				"namelong": "Tankautospuit Terreinvaardig (4/5 personen)"
+			},
+			{
+				"ID": 9,
+				"name": "TS 4/5",
+				"namelong": "Tankautospuit (4/5 personen)"
+			},
+			{
+				"ID": 12,
+				"name": "TST-NB 8/9",
+				"namelong": "Tankautospuit Natuurbrandbestrijding (8/9 personen)"
+			},
+			{
+				"ID": 14,
+				"name": "TST-NB 6/7",
+				"namelong": "Tankautospuit Natuurbrandbestrijding (6/7 personen)"
+			},
+			{
+				"ID": 15,
+				"name": "TST-NB 4/5",
+				"namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)"
+			},
+			{
+				"ID": 17,
+				"name": "TS 6/7",
+				"namelong": "Tankautospuit (6/7 personen)"
+			},
+			{
+				"ID": 21,
+				"name": "DB-K",
+				"namelong": "Dienstbus klein (9 personen)"
+			},
+			{
+				"ID": 33,
+				"name": "WO",
+				"namelong": "Waterongevallenvoertuig"
+			},
+			{
+				"ID": 49,
+				"name": "PM-OR",
+				"namelong": "Materieelvoertuig - Oppervlakteredding"
+			}
 		]
 	},
 	{
@@ -647,7 +714,11 @@
 			"max": 0
 		},
 		"needvehicle": [
-			"(26) HA | Haakarmbakvoertuig"
+			{
+				"ID": 26,
+				"name": "HA",
+				"namelong": "Haakarmvoertuig"
+			}
 		],
 		"requiredfromFire": 7
 	},
@@ -713,7 +784,7 @@
 		"prices": {
 			"credits": 12500,
 			"coins": 25
-    },
+		},
 		"staff": {
 			"min": 4,
 			"max": 9,
@@ -727,13 +798,17 @@
 		"prices": {
 			"credits": 5000,
 			"coins": 12
-    },
+		},
 		"staff": {
 			"min": 0,
 			"max": 0
 		},
 		"needvehicle": [
-			"(26) HA | Haakarmbakvoertuig"
+			{
+				"ID": 26,
+				"name": "HA",
+				"namelong": "Haakarmvoertuig"
+			}
 		],
 		"requiredfromFire": 4
 	},
