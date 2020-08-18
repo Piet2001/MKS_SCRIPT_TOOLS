@@ -1,0 +1,372 @@
+[
+    {
+        "Brandweer": [
+            {
+                "Tankautospuiten": [
+                    {
+                        "ID": 0,
+                        "name": "SI‐2",
+                        "namelong": "Snel Inzetbare Eenheid (2 pers.)"
+                    },
+                    {
+                        "ID": 1,
+                        "name": "TS 8/9",
+                        "namelong": "Tankautospuit (8/9 personen)"
+                    },
+                    {
+                        "ID": 6,
+                        "name": "TST 8/9",
+                        "namelong": "Tankautospuit Terreinvaardig (8/9 personen)"
+                    },
+                    {
+                        "ID": 7,
+                        "name": "TST 6/7",
+                        "namelong": "Tankautospuit Terreinvaardig (6/7 personen)"
+                    },
+                    {
+                        "ID": 8,
+                        "name": "TST 4/5",
+                        "namelong": "Tankautospuit Terreinvaardig (4/5 personen)"
+                    },
+                    {
+                        "ID": 9,
+                        "name": "TS 4/5",
+                        "namelong": "Tankautospuit (4/5 personen)"
+                    },
+                    {
+                        "ID": 12,
+                        "name": "TST-NB 8/9",
+                        "namelong": "Tankautospuit Natuurbrandbestrijding (8/9 personen)"
+                    },
+                    {
+                        "ID": 14,
+                        "name": "TST-NB 6/7",
+                        "namelong": "Tankautospuit Natuurbrandbestrijding (6/7 personen)"
+                    },
+                    {
+                        "ID": 15,
+                        "name": "TST-NB 4/5",
+                        "namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)"
+                    },
+                    {
+                        "ID": 17,
+                        "name": "TS 6/7",
+                        "namelong": "Tankautospuit (6/7 personen)"
+                    },
+                    {
+                        "ID": 50,
+                        "name": "TS-OR",
+                        "namelong": "Tankautospuit - Oppervlakteredding"
+                    }
+                ],
+                "Redvoertuigen": [
+                    {
+                        "ID": 2,
+                        "name": "AL",
+                        "namelong": "Autoladder"
+                    },
+                    {
+                        "ID": 18,
+                        "name": "HW",
+                        "namelong": "Hoogwerker"
+                    }
+                ],
+                "Officieren van Dienst - Brandweer": [
+                    {
+                        "ID": 3,
+                        "name": "DA-OVD",
+                        "namelong": "Officier van Dienst - Brandweer"
+                    },
+                    {
+                        "ID": 19,
+                        "name": "DA-HOD",
+                        "namelong": "Hoofd Officier van Dienst - Brandweer"
+                    }
+                ],
+                "Hulpverleningsvoertuig": [
+                    {
+                        "ID": 4,
+                        "name": "HV",
+                        "namelong": "Hulpverleningsvoertuig"
+                    },
+                    {
+                        "ID": 51,
+                        "name": "HVH",
+                        "namelong": "Hulpverleningshaakarmbak"
+                    }
+                ],
+                "Adembeschermingsvoertuig of haakarmbak": [
+                    {
+                        "ID": 5,
+                        "name": "AB",
+                        "namelong": "Adembeschermingsvoertuig"
+                    },
+                    {
+                        "ID": 27,
+                        "name": "ABH",
+                        "namelong": "Adembeschermingshaakarmbak"
+                    }
+                ],
+                "Slangenwagen, watertankwagen of gelijkwaardige haakarmbak": [
+                    {
+                        "ID": 10,
+                        "name": "SL",
+                        "namelong": "Slangenwagen"
+                    },
+                    {
+                        "ID": 29,
+                        "name": "WTH",
+                        "namelong": "Watertankhaakarmbak"
+                    },
+                    {
+                        "ID": 34,
+                        "name": "WT",
+                        "namelong": "Watertankwagen"
+                    },
+                    {
+                        "ID": 45,
+                        "name": "DPH",
+                        "namelong": "Dompelpomphaakarmbak"
+                    }
+                ],
+                "Hoofd Officieren van Dienst": [
+                    {
+                        "ID": 19,
+                        "name": "DA-HOD",
+                        "namelong": "Hoofd Officier van Dienst - Brandweer"
+                    }
+                ],
+                "Commandowagens": [
+                    {
+                        "ID": 31,
+                        "name": "CO",
+                        "namelong": "Commandovoertuig"
+                    },
+                    {
+                        "ID": 32,
+                        "name": "COH",
+                        "namelong": "Commandohaakarmbak"
+                    }
+                ],
+                "Verkenningseenheden": [
+                    {
+                        "ID": 11,
+                        "name": "DB-VEB",
+                        "namelong": "Dienstbus Verkenningseenheid Brandweer"
+                    }
+                ],
+                "Adviseurs Gevaarlijke Stoffen": [
+                    {
+                        "ID": 24,
+                        "name": "DA-AGS",
+                        "namelong": "Adviseur Gevaarlijke Stoffen - Brandweer"
+                    }
+                ],
+                "Waterongevallenvoertuigen / Oppervlaktereddingsteams":[
+                    {
+                        "ID": 33,
+                        "name": "WO",
+                        "namelong": "Waterongevallenvoertuig"
+                    },
+                    {
+                        "ID": 49,
+                        "name": "PM-OR",
+                        "namelong": "Materieelvoertuig - Oppervlakteredding"
+                    },
+                    {
+                        "ID": 50,
+                        "name": "TS-OR",
+                        "namelong": "Tankautospuit - Oppervlakteredding"
+                    }
+                ],
+                "Waterongevallenaanhangers":[
+                    {
+                        "ID": 36,
+                        "name": "WOA",
+                        "namelong": "Waterongevallenaanhanger"
+                    }
+                ],
+                "Crashtenders":[
+                    {
+                        "ID": 41,
+                        "name": "CT (8x8)",
+                        "namelong": "Crashtender (8x8)"
+                    },
+                    {
+                        "ID": 42,
+                        "name": "CT (6x6)",
+                        "namelong": "Crashtender (6x6)"
+                    },
+                    {
+                        "ID": 43,
+                        "name": "CT (4x4)",
+                        "namelong": "Crashtender (4x4)"
+                    }
+                ],
+                "Airport Fire Officers / On Scene Commanders":[
+                    {
+                        "ID": 44,
+                        "name": "AFO/OSC",
+                        "namelong": "Airport Fire Officer / On Scene Commander"
+                    }
+                ],
+                "Voorlichters":[
+                    {
+                        "ID": 56,
+                        "name": "DA-VL",
+                        "namelong": "Dienstauto Voorlichter"
+                    }
+                ]
+            }
+        ],
+        "Politie": [
+            {
+                "Noodhulpeenheden": [
+                    {
+                        "ID": 22,
+                        "name": "DA Noodhulp",
+                        "namelong": "Dienstauto Noodhulp"
+                    },
+                    {
+                        "ID": 25,
+                        "name": "DB Noodhulp",
+                        "namelong": "Dienstbus Noodhulp"
+                    },
+                    {
+                        "ID": 46,
+                        "name": "DM Noodhulp",
+                        "namelong": "Dienstmotor Noodhulp"
+                    },
+                    {
+                        "ID": 47,
+                        "name": "DA Hondengeleider",
+                        "namelong": "Dienstauto Hondengeleider"
+                    },
+                    {
+                        "ID": 48,
+                        "name": "DB Hondengeleider",
+                        "namelong": "Dienstbus Hondengeleider"
+                    }
+                ],
+                "Officieren van Dienst - Politie": [
+                    {
+                        "ID": 35,
+                        "name": "OVD-P",
+                        "namelong": "Officier van Dienst - Politie"
+                    }
+                ],
+                "Politiehelikopters": [
+                    {
+                        "ID": 28,
+                        "name": "Politiehelikopter",
+                        "namelong": "Politiehelikopter"
+                    }
+                ],
+                "Hondengeleiders":[
+                    {
+                        "ID": 47,
+                        "name": "DA Hondengeleider",
+                        "namelong": "Dienstauto Hondengeleider"
+                    },
+                    {
+                        "ID": 48,
+                        "name": "DB Hondengeleider",
+                        "namelong": "Dienstbus Hondengeleider"
+                    }
+                ],
+                "ME Commandovoertuigen": [
+                    {
+                        "ID": 39,
+                        "name": "ME Commandovoertuig",
+                        "namelong": "ME Commandovoertuig"
+                    }
+                ],
+                "ME Groepsvoertuigen":[
+                    {
+                        "ID": 40,
+                        "name": "ME Flexbus",
+                        "namelong": "ME Groepsvoertuig"
+                    }
+                ],
+                "AT Commandant": [
+                    {
+                        "ID": 53,
+                        "name": "AT-C",
+                        "namelong": "AT-Commandant"
+                    }
+                ],
+                "AT Operators":[
+                    {
+                        "ID": 54,
+                        "name": "AT-O",
+                        "namelong": "AT-Operator"
+                    }
+                ],
+                "AT Materiaalwagen":[
+                    {
+                        "ID": 55,
+                        "name": "AT-M",
+                        "namelong": "AT-Materiaalwagen"
+                    }
+                ]
+            }
+        ],
+        "Ambulance": [
+            {
+                "Ambulance": [
+                    {
+                        "ID": 16,
+                        "name": "Ambulance",
+                        "namelong": "Ambulance"
+                    },
+                    {
+                        "ID": 52,
+                        "name": "RR",
+                        "namelong": "Rapid Responder"
+                    },
+                    {
+                        "ID": 57,
+                        "name": "DA OVDG-RR",
+                        "namelong": "Dienstvoertuig Officier van Dienst-Geneeskundig/Rapid Responder"
+                    }
+                ],
+                "Zorgambulance": [
+                    {
+                        "ID": 16,
+                        "name": "Ambulance",
+                        "namelong": "Ambulance"
+                    },
+                    {
+                        "ID": 30,
+                        "name": "Zorgambulance",
+                        "namelong": "B-ambulance"
+                    }
+                ],
+                "MMT": [
+                    {
+                        "ID": 23,
+                        "name": "Lifeliner",
+                        "namelong": "Lifeliner"
+                    },
+                    {
+                        "ID": 37,
+                        "name": "MMT-Auto",
+                        "namelong": "MMT-Auto"
+                    }
+                ],
+                "Officier van Dienst Geneeskunde":[
+                    {
+                        "ID": 38,
+                        "name": "OvD-G",
+                        "namelong": "Officier van Dienst Geneeskunde"
+                    },
+                    {
+                        "ID": 57,
+                        "name": "DA OVDG-RR",
+                        "namelong": "Dienstvoertuig Officier van Dienst-Geneeskundig/Rapid Responder"
+                    }
+                ]
+            }
+        ]
+    }
+]
