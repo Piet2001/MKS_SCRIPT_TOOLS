@@ -1,5 +1,7 @@
 # The public game API's
-#### Go [back](https://piet2001.github.io/MKS_SCRIPT_TOOLS/)
+
+ Go [back](https://piet2001.github.io/MKS_SCRIPT_TOOLS)
+
 ----
 
 The game has some API's that you can use.  
