@@ -19,7 +19,7 @@ The game API's are:
 
 - [Userinfo](https://meldkamerspel.com/api/credits)
 
-- [Allianceinfo](https://meldkamerspel.com/api/AllianceInfo)
+- [Allianceinfo](https://meldkamerspel.com/api/allianceinfo)
 
 - [All_Missions](https://meldkamerspel.com/einsaetze.json)
 
