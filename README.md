@@ -6,17 +6,19 @@ Please note in your script description when you are using this.
 You can use te files with the RAW URL.  
 A list of the availible JSON:
 
-- [VehicleTypes](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/VehicleType.json)
+- [VehicleTypes](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/VehicleType.json)  
 
-- [BuildingTypes](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/BuidingType.json)
+- [BuildingTypes](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/BuidingType.json)  
 
-- [POI's](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/POI.json)
+- [POI's](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/POI.json)  
 
-- [Educations](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/Education.json)
+- [Educations](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/Education.json)  
 
-- [Neededvehicle](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/Neededvehicle.json)
+- [Neededvehicle](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/Neededvehicle.json)  
 
-- [Public_Game_API](https://piet2001.github.io/MKS_SCRIPT_TOOLS/GameAPI)
+- [Public_Game_API](https://piet2001.github.io/MKS_SCRIPT_TOOLS/GameAPI)  
+
+- [Design_mode_options](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/Designmode.json)  
 
 Missing anything? Create an [issue](https://github.com/Piet2001/MKS_SCRIPT_TOOLS/issues/new)!  
 Also for other contact you can create an issue!  

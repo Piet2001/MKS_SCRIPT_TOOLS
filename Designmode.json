@@ -1,0 +1,22 @@
+[
+    {
+        "ID": 0,
+        "Name": "Standaard"
+    },
+    {
+        "ID": 1,
+        "Name": "Licht"
+    },
+    {
+        "ID": 2,
+        "Name": "Donker"
+    },
+    {
+        "ID": 13,
+        "Name": "Venster-Design"
+    },
+    {
+        "ID": 4,
+        "Name": "Venster-Design - Donker"
+    }
+]
