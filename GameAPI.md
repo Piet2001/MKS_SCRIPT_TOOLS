@@ -25,3 +25,5 @@ The game API's are:
 
 - [POI's_on_MAP](https://www.meldkamerspel.com/mission_positions)  
 You have to turn on the POI option ingame.
+
+- [Settings](https://www.meldkamerspel.com/api/settings)
