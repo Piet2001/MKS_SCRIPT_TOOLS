@@ -29,3 +29,7 @@ Sent me a message when you are using one of this files. En we'll add your script
 Scripts for MKS that support me:
 
 - JRH-Script-Bundle and scripts. [Site](https://jrh-1997.github.io/Scripts-MKS/)
+
+----
+
+![Licence](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
