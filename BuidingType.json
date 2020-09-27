@@ -347,7 +347,7 @@
 	{
 		"ID": 13,
 		"name": "Ambulance, VWS-post",
-		"levelmax": 19,
+		"levelmax": 1,
 		"prices": {
 			"credits": 100000,
 			"coins": 25			
