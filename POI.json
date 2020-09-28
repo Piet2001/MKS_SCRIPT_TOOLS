@@ -238,5 +238,9 @@
 	{
 		"ID": 59,
 		"name": "Verzorgingsplaats (Snelweg)"
+	},
+	{
+		"ID": 60,
+		"name": "Zendmast"
 	}
 ]

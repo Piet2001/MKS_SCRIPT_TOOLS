@@ -343,5 +343,15 @@
 				"numberpossible": 9
 			}
 		]
+	},
+	{
+		"ID": 13,
+		"name": "Ambulance, VWS-post",
+		"levelmax": 1,
+		"prices": {
+			"credits": 100000,
+			"coins": 25			
+		},
+		"info": "Na aankoop zichtbaar als Ambulance, Standplaats (3)"
 	}
 ]
