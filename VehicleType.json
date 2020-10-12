@@ -3,7 +3,7 @@
 		"ID": 0,
 		"name": "SI‐2",
 		"namelong": "Snel Inzetbare Eenheid (2 pers.)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -16,7 +16,7 @@
 		"ID": 1,
 		"name": "TS 8/9",
 		"namelong": "Tankautospuit (8/9 personen)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -29,7 +29,7 @@
 		"ID": 2,
 		"name": "AL",
 		"namelong": "Autoladder",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 30
 		},
@@ -43,7 +43,7 @@
 		"ID": 3,
 		"name": "DA-OVD",
 		"namelong": "Officier van Dienst - Brandweer",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 25
 		},
@@ -57,7 +57,7 @@
 		"ID": 4,
 		"name": "HV",
 		"namelong": "Hulpverleningsvoertuig",
-		"prices": {
+		"price": {
 			"credits": 12180,
 			"coins": 25
 		},
@@ -71,7 +71,7 @@
 		"ID": 5,
 		"name": "AB",
 		"namelong": "Adembeschermingsvoertuig",
-		"prices": {
+		"price": {
 			"credits": 11680,
 			"coins": 25
 		},
@@ -85,7 +85,7 @@
 		"ID": 6,
 		"name": "TST 8/9",
 		"namelong": "Tankautospuit Terreinvaardig (8/9 personen)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -98,7 +98,7 @@
 		"ID": 7,
 		"name": "TST 6/7",
 		"namelong": "Tankautospuit Terreinvaardig (6/7 personen)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -111,7 +111,7 @@
 		"ID": 8,
 		"name": "TST 4/5",
 		"namelong": "Tankautospuit Terreinvaardig (4/5 personen)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -124,7 +124,7 @@
 		"ID": 9,
 		"name": "TS 4/5",
 		"namelong": "Tankautospuit (4/5 personen)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -137,7 +137,7 @@
 		"ID": 10,
 		"name": "SL",
 		"namelong": "Slangenwagen",
-		"prices": {
+		"price": {
 			"credits": 17300,
 			"coins": 25
 		},
@@ -151,7 +151,7 @@
 		"ID": 11,
 		"name": "DB-VEB",
 		"namelong": "Dienstbus Verkenningseenheid Brandweer",
-		"prices": {
+		"price": {
 			"credits": 18300,
 			"coins": 25
 		},
@@ -166,7 +166,7 @@
 		"ID": 12,
 		"name": "TST-NB 8/9",
 		"namelong": "Tankautospuit Natuurbrandbestrijding (8/9 personen)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -179,7 +179,7 @@
 		"ID": 14,
 		"name": "TST-NB 6/7",
 		"namelong": "Tankautospuit Natuurbrandbestrijding (6/7 personen)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -192,7 +192,7 @@
 		"ID": 15,
 		"name": "TST-NB 4/5",
 		"namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -205,7 +205,7 @@
 		"ID": 16,
 		"name": "Ambulance",
 		"namelong": "Ambulance",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -218,7 +218,7 @@
 		"ID": 17,
 		"name": "TS 6/7",
 		"namelong": "Tankautospuit (6/7 personen)",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -231,7 +231,7 @@
 		"ID": 18,
 		"name": "HW",
 		"namelong": "Hoogwerker",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 30
 		},
@@ -245,7 +245,7 @@
 		"ID": 19,
 		"name": "DA-HOD",
 		"namelong": "Hoofd Officier van Dienst - Brandweer",
-		"prices": {
+		"price": {
 			"credits": 25500,
 			"coins": 25
 		},
@@ -260,7 +260,7 @@
 		"ID": 20,
 		"name": "DA",
 		"namelong": "Dienstauto (4 personen)",
-		"prices": {
+		"price": {
 			"credits": 2000,
 			"coins": 10
 		},
@@ -273,7 +273,7 @@
 		"ID": 21,
 		"name": "DB-K",
 		"namelong": "Dienstbus klein (9 personen)",
-		"prices": {
+		"price": {
 			"credits": 2500,
 			"coins": 12
 		},
@@ -286,7 +286,7 @@
 		"ID": 22,
 		"name": "DA Noodhulp",
 		"namelong": "Dienstauto Noodhulp",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -299,7 +299,7 @@
 		"ID": 23,
 		"name": "Lifeliner",
 		"namelong": "Lifeliner",
-		"prices": {
+		"price": {
 			"credits": 500000,
 			"coins": 30
 		},
@@ -315,7 +315,7 @@
 		"ID": 24,
 		"name": "DA-AGS",
 		"namelong": "Adviseur Gevaarlijke Stoffen - Brandweer",
-		"prices": {
+		"price": {
 			"credits": 19200,
 			"coins": 25
 		},
@@ -330,7 +330,7 @@
 		"ID": 25,
 		"name": "DB Noodhulp",
 		"namelong": "Dienstbus Noodhulp",
-		"prices": {
+		"price": {
 			"credits": 6000,
 			"coins": 25
 		},
@@ -343,7 +343,7 @@
 		"ID": 26,
 		"name": "HA",
 		"namelong": "Haakarmvoertuig",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 12
 		},
@@ -357,7 +357,7 @@
 		"ID": 27,
 		"name": "ABH",
 		"namelong": "Adembeschermingshaakarmbak",
-		"prices": {
+		"price": {
 			"credits": 6000,
 			"coins": 12
 		},
@@ -378,7 +378,7 @@
 		"ID": 28,
 		"name": "Politiehelikopter",
 		"namelong": "Politiehelikopter",
-		"prices": {
+		"price": {
 			"credits": 300000,
 			"coins": 30
 		},
@@ -392,7 +392,7 @@
 		"ID": 29,
 		"name": "WTH",
 		"namelong": "Watertankhaakarmbak",
-		"prices": {
+		"price": {
 			"credits": 6000,
 			"coins": 12
 		},
@@ -413,7 +413,7 @@
 		"ID": 30,
 		"name": "Zorgambulance",
 		"namelong": "B-ambulance",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 25
 		},
@@ -426,7 +426,7 @@
 		"ID": 31,
 		"name": "CO",
 		"namelong": "Commandovoertuig",
-		"prices": {
+		"price": {
 			"credits": 6000,
 			"coins": 12
 		},
@@ -441,7 +441,7 @@
 		"ID": 32,
 		"name": "COH",
 		"namelong": "Commandohaakarmbak",
-		"prices": {
+		"price": {
 			"credits": 6000,
 			"coins": 12
 		},
@@ -462,7 +462,7 @@
 		"ID": 33,
 		"name": "WO",
 		"namelong": "Waterongevallenvoertuig",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 25
 		},
@@ -476,7 +476,7 @@
 		"ID": 34,
 		"name": "WT",
 		"namelong": "Watertankwagen",
-		"prices": {
+		"price": {
 			"credits": 17000,
 			"coins": 25
 		},
@@ -490,7 +490,7 @@
 		"ID": 35,
 		"name": "OVD-P",
 		"namelong": "Officier van Dienst - Politie",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 25
 		},
@@ -505,7 +505,7 @@
 		"ID": 36,
 		"name": "WOA",
 		"namelong": "Waterongevallenaanhanger",
-		"prices": {
+		"price": {
 			"credits": 9000,
 			"coins": 12
 		},
@@ -590,7 +590,7 @@
 		"ID": 37,
 		"name": "MMT-Auto",
 		"namelong": "MMT-Auto",
-		"prices": {
+		"price": {
 			"credits": 30000,
 			"coins": 12
 		},
@@ -606,7 +606,7 @@
 		"ID": 38,
 		"name": "OvD-G",
 		"namelong": "Officier van Dienst Geneeskunde",
-		"prices": {
+		"price": {
 			"credits": 25000,
 			"coins": 25
 		},
@@ -621,7 +621,7 @@
 		"ID": 39,
 		"name": "ME Commandovoertuig",
 		"namelong": "ME Commandovoertuig",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 25
 		},
@@ -635,7 +635,7 @@
 		"ID": 40,
 		"name": "ME Flexbus",
 		"namelong": "ME Groepsvoertuig",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 25
 		},
@@ -649,7 +649,7 @@
 		"ID": 41,
 		"name": "CT (8x8)",
 		"namelong": "Crashtender (8x8)",
-		"prices": {
+		"price": {
 			"credits": 60000,
 			"coins": 25
 		},
@@ -663,7 +663,7 @@
 		"ID": 42,
 		"name": "CT (6x6)",
 		"namelong": "Crashtender (6x6)",
-		"prices": {
+		"price": {
 			"credits": 40000,
 			"coins": 25
 		},
@@ -677,7 +677,7 @@
 		"ID": 43,
 		"name": "CT (4x4)",
 		"namelong": "Crashtender (4x4)",
-		"prices": {
+		"price": {
 			"credits": 15000,
 			"coins": 25
 		},
@@ -691,7 +691,7 @@
 		"ID": 44,
 		"name": "AFO/OSC",
 		"namelong": "Airport Fire Officer / On Scene Commander",
-		"prices": {
+		"price": {
 			"credits": 12000,
 			"coins": 25
 		},
@@ -705,7 +705,7 @@
 		"ID": 45,
 		"name": "DPH",
 		"namelong": "Dompelpomphaakarmbak",
-		"prices": {
+		"price": {
 			"credits": 6000,
 			"coins": 12
 		},
@@ -726,7 +726,7 @@
 		"ID": 46,
 		"name": "DM Noodhulp",
 		"namelong": "Dienstmotor Noodhulp",
-		"prices": {
+		"price": {
 			"credits": 2500,
 			"coins": 18
 		},
@@ -739,7 +739,7 @@
 		"ID": 47,
 		"name": "DA Hondengeleider",
 		"namelong": "Dienstauto Hondengeleider",
-		"prices": {
+		"price": {
 			"credits": 8000,
 			"coins": 25
 		},
@@ -753,7 +753,7 @@
 		"ID": 48,
 		"name": "DB Hondengeleider",
 		"namelong": "Dienstbus Hondengeleider",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 25
 		},
@@ -767,7 +767,7 @@
 		"ID": 49,
 		"name": "PM-OR",
 		"namelong": "Materieelvoertuig - Oppervlakteredding",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 25
 		},
@@ -781,7 +781,7 @@
 		"ID": 50,
 		"name": "TS-OR",
 		"namelong": "Tankautospuit - Oppervlakteredding",
-		"prices": {
+		"price": {
 			"credits": 12500,
 			"coins": 25
 		},
@@ -795,7 +795,7 @@
 		"ID": 51,
 		"name": "HVH",
 		"namelong": "Hulpverleningshaakarmbak",
-		"prices": {
+		"price": {
 			"credits": 5000,
 			"coins": 12
 		},
@@ -816,7 +816,7 @@
 		"ID": 52,
 		"name": "RR",
 		"namelong": "Rapid Responder",
-		"prices": {
+		"price": {
 			"credits": 2500,
 			"coins": 18
 		},
@@ -829,7 +829,7 @@
 		"ID": 53,
 		"name": "AT-C",
 		"namelong": "AT-Commandant",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 25
 		},
@@ -843,7 +843,7 @@
 		"ID": 54,
 		"name": "AT-O",
 		"namelong": "AT-Operator",
-		"prices": {
+		"price": {
 			"credits": 10000,
 			"coins": 25
 		},
@@ -857,7 +857,7 @@
 		"ID": 55,
 		"name": "AT-M",
 		"namelong": "AT-Materiaalwagen",
-		"prices": {
+		"price": {
 			"credits": 15000,
 			"coins": 25
 		},
@@ -871,7 +871,7 @@
 		"ID": 56,
 		"name": "DA-VL",
 		"namelong": "Dienstauto Voorlichter",
-		"prices": {
+		"price": {
 			"credits": 15000,
 			"coins": 25
 		},
@@ -886,7 +886,7 @@
 		"ID": 57,
 		"name": "DA OVDG-RR",
 		"namelong": "Dienstvoertuig Officier van Dienst-Geneeskundig/Rapid Responder",
-		"prices": {
+		"price": {
 			"credits": 27500,
 			"coins": 25
 		},

@@ -3,7 +3,7 @@
 		"ID": 0,
 		"name": "Brandweer, Kazerne",
 		"levelmax": 24,
-		"prices": {
+		"price": {
 			"credits": 100000,
 			"coins": 20,
 			"info": ">24 prijs wordt hoger."
@@ -11,7 +11,7 @@
 		"extentions": [
 			{
 				"name": "Ambulance standplaats",
-				"prices": {
+				"price": {
 					"credits": 100000,
 					"coins": 20
 				},
@@ -20,7 +20,7 @@
 			},
 			{
 				"name": "Waterongevallenbestrijding",
-				"prices": {
+				"price": {
 					"credits": 400000,
 					"coins": 25
 				},
@@ -29,7 +29,7 @@
 			},
 			{
 				"name": "Vliegtuigbrandbestrijding",
-				"prices": {
+				"price": {
 					"credits": 400000,
 					"coins": 25
 				},
@@ -39,7 +39,7 @@
 			},
 			{
 				"name": "Haakarmbak parkeerplaats",
-				"prices": {
+				"price": {
 					"credits": 100000,
 					"coins": 20
 				},
@@ -51,7 +51,7 @@
 	{
 		"ID": 1,
 		"name": "Meldkamer",
-		"prices": {
+		"price": {
 			"credits": 0,
 			"coins": 0
 		},
@@ -61,14 +61,14 @@
 		"ID": 2,
 		"name": "Ziekenhuis",
 		"levelmax": 20,
-		"prices": {
+		"price": {
 			"credits": 200000,
 			"coins": 35
 		},
 		"extentions": [
 			{
 				"name": "Interne Geneeskunde",
-				"prices": {
+				"price": {
 					"credits": 10000,
 					"coins": 10
 				},
@@ -77,7 +77,7 @@
 			},
 			{
 				"name": "Algemene Heelkunde",
-				"prices": {
+				"price": {
 					"credits": 10000,
 					"coins": 10
 				},
@@ -86,7 +86,7 @@
 			},
 			{
 				"name": "Gynaecologie",
-				"prices": {
+				"price": {
 					"credits": 70000,
 					"coins": 10
 				},
@@ -95,7 +95,7 @@
 			},
 			{
 				"name": "Urologie",
-				"prices": {
+				"price": {
 					"credits": 70000,
 					"coins": 10
 				},
@@ -104,7 +104,7 @@
 			},
 			{
 				"name": "Traumatologie",
-				"prices": {
+				"price": {
 					"credits": 70000,
 					"coins": 10
 				},
@@ -113,7 +113,7 @@
 			},
 			{
 				"name": "Neurologie",
-				"prices": {
+				"price": {
 					"credits": 70000,
 					"coins": 10
 				},
@@ -122,7 +122,7 @@
 			},
 			{
 				"name": "Neurochirurgie",
-				"prices": {
+				"price": {
 					"credits": 70000,
 					"coins": 10
 				},
@@ -131,7 +131,7 @@
 			},
 			{
 				"name": "Cardiologie",
-				"prices": {
+				"price": {
 					"credits": 70000,
 					"coins": 10
 				},
@@ -140,7 +140,7 @@
 			},
 			{
 				"name": "Cardiochirurgie",
-				"prices": {
+				"price": {
 					"credits": 70000,
 					"coins": 10
 				},
@@ -153,7 +153,7 @@
 		"ID": 3,
 		"name": "Ambulance, Standplaats",
 		"levelmax": 19,
-		"prices": {
+		"price": {
 			"credits": 200000,
 			"coins": 35,
 			"info": "VWS-post = 100000 credits / 25 coins"
@@ -162,14 +162,14 @@
 	{
 		"ID": 4,
 		"name": "Brandweer, Academie",
-		"prices": {
+		"price": {
 			"credits": 500000,
 			"coins": 50
 		},
 		"extentions": [
 			{
 				"name": "Extra klaslokaal",
-				"prices": {
+				"price": {
 					"credits": 400000,
 					"coins": 40
 				},
@@ -182,7 +182,7 @@
 		"ID": 5,
 		"name": "Politie, Opkomstbureau",
 		"levelmax": 19,
-		"prices": {
+		"price": {
 			"credits": 100000,
 			"coins": 20,
 			"info": ">24 prijs wordt hoger."
@@ -190,7 +190,7 @@
 		"extentions": [
 			{
 				"name": "Gevangeniscel",
-				"prices": {
+				"price": {
 					"credits": 25000,
 					"coins": 5
 				},
@@ -199,7 +199,7 @@
 			},
 			{
 				"name": "Extra cel",
-				"prices": {
+				"price": {
 					"credits": 25000,
 					"coins": 5
 				},
@@ -212,7 +212,7 @@
 		"ID": 6,
 		"name": "MMT, Standplaats",
 		"levelmax": 43,
-		"prices": {
+		"price": {
 			"credits": 800000,
 			"coins": 50
 		},
@@ -221,14 +221,14 @@
 	{
 		"ID": 7,
 		"name": "Universiteit Faculteit Geneeskunde",
-		"prices": {
+		"price": {
 			"credits": 500000,
 			"coins": 50
 		},
 		"extentions": [
 			{
 				"name": "Extra klaslokaal",
-				"prices": {
+				"price": {
 					"credits": 400000,
 					"coins": 40
 				},
@@ -240,14 +240,14 @@
 	{
 		"ID": 8,
 		"name": "Politie, Academie",
-		"prices": {
+		"price": {
 			"credits": 500000,
 			"coins": 50
 		},
 		"extentions": [
 			{
 				"name": "Extra klaslokaal",
-				"prices": {
+				"price": {
 					"credits": 400000,
 					"coins": 40
 				},
@@ -259,7 +259,7 @@
 	{
 		"ID": 9,
 		"name": "Politiehelikoper standplaats",
-		"prices": {
+		"price": {
 			"credits": 1000000,
 			"coins": 50
 		},
@@ -268,7 +268,7 @@
 	{
 		"ID": 10,
 		"name": "Uitgangstelling (UGS)",
-		"prices": {
+		"price": {
 			"credits": 0,
 			"coins": 0
 		}
@@ -276,14 +276,14 @@
 	{
 		"ID": 11,
 		"name": "Politie, Hoofdbureau",
-		"prices": {
+		"price": {
 			"credits": 400000,
 			"coins": 40
 		},
 		"extentions": [
 			{
 				"name": "2e OvD-P",
-				"prices": {
+				"price": {
 					"credits": 40000,
 					"coins": 5
 				},
@@ -292,7 +292,7 @@
 			},
 			{
 				"name": "Mobiele Eenheid, Sectie",
-				"prices": {
+				"price": {
 					"credits": 100000,
 					"coins": 20
 				},
@@ -301,7 +301,7 @@
 			},
 			{
 				"name": "Levende Have",
-				"prices": {
+				"price": {
 					"credits": 100000,
 					"coins": 20
 				},
@@ -310,7 +310,7 @@
 			},
 			{
 				"name": "Arrestatieteam",
-				"prices": {
+				"price": {
 					"credits": 200000,
 					"coins": 20
 				},
@@ -322,13 +322,13 @@
 	{
 		"ID": 12,
 		"name": "Politie, Cellencomplex voor teams",
-		"prices": {
+		"price": {
 			"credits": 100000
 		},
 		"extentions": [
 			{
 				"name": "Gevangeniscel",
-				"prices": {
+				"price": {
 					"credits": 25000
 				},
 				"time": "7 dagen",
@@ -336,7 +336,7 @@
 			},
 			{
 				"name": "Extra cel",
-				"prices": {
+				"price": {
 					"credits": 25000
 				},
 				"time": "7 dagen",
@@ -348,7 +348,7 @@
 		"ID": 13,
 		"name": "Ambulance, VWS-post",
 		"levelmax": 1,
-		"prices": {
+		"price": {
 			"credits": 100000,
 			"coins": 25			
 		},
