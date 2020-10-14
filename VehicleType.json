@@ -1,41 +1,41 @@
 [
 	{
 		"ID": 0,
-		"name": "SI‐2",
-		"namelong": "Snel Inzetbare Eenheid (2 pers.)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "SI‐2",
+		"Namelong": "Snel Inzetbare Eenheid (2 pers.)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2
+		"Staff": {
+			"Min": 1,
+			"Max": 2
 		}
 	},
 	{
 		"ID": 1,
-		"name": "TS 8/9",
-		"namelong": "Tankautospuit (8/9 personen)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "TS 8/9",
+		"Namelong": "Tankautospuit (8/9 personen)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 9
+		"Staff": {
+			"Min": 1,
+			"Max": 9
 		}
 	},
 	{
 		"ID": 2,
-		"name": "AL",
-		"namelong": "Autoladder",
-		"price": {
-			"credits": 10000,
-			"coins": 30
+		"Name": "AL",
+		"Namelong": "Autoladder",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 30
 		},
-		"staff": {
-			"min": 1,
-			"max": 3
+		"Staff": {
+			"Min": 1,
+			"Max": 3
 		},
 		"RequiredFrom": {
 			"Fire": 3
@@ -43,15 +43,15 @@
 	},
 	{
 		"ID": 3,
-		"name": "DA-OVD",
-		"namelong": "Officier van Dienst - Brandweer",
-		"price": {
-			"credits": 10000,
-			"coins": 25
+		"Name": "DA-OVD",
+		"Namelong": "Officier van Dienst - Brandweer",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 1
+		"Staff": {
+			"Min": 1,
+			"Max": 1
 		},
 		"RequiredFrom": {
 			"Fire": 6
@@ -59,15 +59,15 @@
 	},
 	{
 		"ID": 4,
-		"name": "HV",
-		"namelong": "Hulpverleningsvoertuig",
-		"price": {
-			"credits": 12180,
-			"coins": 25
+		"Name": "HV",
+		"Namelong": "Hulpverleningsvoertuig",
+		"Price": {
+			"Credits": 12180,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 3
+		"Staff": {
+			"Min": 1,
+			"Max": 3
 		},
 		"RequiredFrom": {
 			"Fire": 4
@@ -75,15 +75,15 @@
 	},
 	{
 		"ID": 5,
-		"name": "AB",
-		"namelong": "Adembeschermingsvoertuig",
-		"price": {
-			"credits": 11680,
-			"coins": 25
+		"Name": "AB",
+		"Namelong": "AdembescherMingsvoertuig",
+		"Price": {
+			"Credits": 11680,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 3
+		"Staff": {
+			"Min": 1,
+			"Max": 3
 		},
 		"RequiredFrom": {
 			"Fire": 5
@@ -91,67 +91,67 @@
 	},
 	{
 		"ID": 6,
-		"name": "TST 8/9",
-		"namelong": "Tankautospuit Terreinvaardig (8/9 personen)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "TST 8/9",
+		"Namelong": "Tankautospuit Terreinvaardig (8/9 personen)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 9
+		"Staff": {
+			"Min": 1,
+			"Max": 9
 		}
 	},
 	{
 		"ID": 7,
-		"name": "TST 6/7",
-		"namelong": "Tankautospuit Terreinvaardig (6/7 personen)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "TST 6/7",
+		"Namelong": "Tankautospuit Terreinvaardig (6/7 personen)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 7
+		"Staff": {
+			"Min": 1,
+			"Max": 7
 		}
 	},
 	{
 		"ID": 8,
-		"name": "TST 4/5",
-		"namelong": "Tankautospuit Terreinvaardig (4/5 personen)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "TST 4/5",
+		"Namelong": "Tankautospuit Terreinvaardig (4/5 personen)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 5
+		"Staff": {
+			"Min": 1,
+			"Max": 5
 		}
 	},
 	{
 		"ID": 9,
-		"name": "TS 4/5",
-		"namelong": "Tankautospuit (4/5 personen)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "TS 4/5",
+		"Namelong": "Tankautospuit (4/5 personen)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 5
+		"Staff": {
+			"Min": 1,
+			"Max": 5
 		}
 	},
 	{
 		"ID": 10,
-		"name": "SL",
-		"namelong": "Slangenwagen",
-		"price": {
-			"credits": 17300,
-			"coins": 25
+		"Name": "SL",
+		"Namelong": "Slangenwagen",
+		"Price": {
+			"Credits": 17300,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 9
+		"Staff": {
+			"Min": 1,
+			"Max": 9
 		},
 		"RequiredFrom": {
 			"Fire": 7
@@ -159,16 +159,16 @@
 	},
 	{
 		"ID": 11,
-		"name": "DB-VEB",
-		"namelong": "Dienstbus Verkenningseenheid Brandweer",
-		"price": {
-			"credits": 18300,
-			"coins": 25
+		"Name": "DB-VEB",
+		"Namelong": "Dienstbus Verkenningseenheid Brandweer",
+		"Price": {
+			"Credits": 18300,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 4,
-			"education": "Verkenningseenheid Brandweer (3 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 4,
+			"Education": "Verkenningseenheid Brandweer (3 dagen)"
 		},
 		"RequiredFrom": {
 			"Fire": 10
@@ -176,80 +176,80 @@
 	},
 	{
 		"ID": 12,
-		"name": "TST-NB 8/9",
-		"namelong": "Tankautospuit Natuurbrandbestrijding (8/9 personen)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "TST-NB 8/9",
+		"Namelong": "Tankautospuit Natuurbrandbestrijding (8/9 personen)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 9
+		"Staff": {
+			"Min": 1,
+			"Max": 9
 		}
 	},
 	{
 		"ID": 14,
-		"name": "TST-NB 6/7",
-		"namelong": "Tankautospuit Natuurbrandbestrijding (6/7 personen)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "TST-NB 6/7",
+		"Namelong": "Tankautospuit Natuurbrandbestrijding (6/7 personen)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 7
+		"Staff": {
+			"Min": 1,
+			"Max": 7
 		}
 	},
 	{
 		"ID": 15,
-		"name": "TST-NB 4/5",
-		"namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "TST-NB 4/5",
+		"Namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 5
+		"Staff": {
+			"Min": 1,
+			"Max": 5
 		}
 	},
 	{
 		"ID": 16,
-		"name": "Ambulance",
-		"namelong": "Ambulance",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "Ambulance",
+		"Namelong": "Ambulance",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2
+		"Staff": {
+			"Min": 1,
+			"Max": 2
 		}
 	},
 	{
 		"ID": 17,
-		"name": "TS 6/7",
-		"namelong": "Tankautospuit (6/7 personen)",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "TS 6/7",
+		"Namelong": "Tankautospuit (6/7 personen)",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 7
+		"Staff": {
+			"Min": 1,
+			"Max": 7
 		}
 	},
 	{
 		"ID": 18,
-		"name": "HW",
-		"namelong": "Hoogwerker",
-		"price": {
-			"credits": 10000,
-			"coins": 30
+		"Name": "HW",
+		"Namelong": "Hoogwerker",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 30
 		},
-		"staff": {
-			"min": 1,
-			"max": 3
+		"Staff": {
+			"Min": 1,
+			"Max": 3
 		},
 		"RequiredFrom": {
 			"Fire": 3
@@ -257,16 +257,16 @@
 	},
 	{
 		"ID": 19,
-		"name": "DA-HOD",
-		"namelong": "Hoofd Officier van Dienst - Brandweer",
-		"price": {
-			"credits": 25500,
-			"coins": 25
+		"Name": "DA-HOD",
+		"Namelong": "Hoofd Officier van Dienst - Brandweer",
+		"Price": {
+			"Credits": 25500,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 1,
-			"education": "Hoofd Officier van Dienst - Brandweer (7 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 1,
+			"Education": "Hoofd Officier van Dienst - Brandweer (7 dagen)"
 		},
 		"RequiredFrom": {
 			"Fire": 13
@@ -274,73 +274,73 @@
 	},
 	{
 		"ID": 20,
-		"name": "DA",
-		"namelong": "Dienstauto (4 personen)",
-		"price": {
-			"credits": 2000,
-			"coins": 10
+		"Name": "DA",
+		"Namelong": "Dienstauto (4 personen)",
+		"Price": {
+			"Credits": 2000,
+			"Coins": 10
 		},
-		"staff": {
-			"min": 1,
-			"max": 4
+		"Staff": {
+			"Min": 1,
+			"Max": 4
 		}
 	},
 	{
 		"ID": 21,
-		"name": "DB-K",
-		"namelong": "Dienstbus klein (9 personen)",
-		"price": {
-			"credits": 2500,
-			"coins": 12
+		"Name": "DB-K",
+		"Namelong": "Dienstbus klein (9 personen)",
+		"Price": {
+			"Credits": 2500,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 1,
-			"max": 9
+		"Staff": {
+			"Min": 1,
+			"Max": 9
 		}
 	},
 	{
 		"ID": 22,
-		"name": "DA Noodhulp",
-		"namelong": "Dienstauto Noodhulp",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "DA Noodhulp",
+		"Namelong": "Dienstauto Noodhulp",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2
+		"Staff": {
+			"Min": 1,
+			"Max": 2
 		}
 	},
 	{
 		"ID": 23,
-		"name": "Lifeliner",
-		"namelong": "Lifeliner",
-		"price": {
-			"credits": 500000,
-			"coins": 30
+		"Name": "Lifeliner",
+		"Namelong": "Lifeliner",
+		"Price": {
+			"Credits": 500000,
+			"Coins": 30
 		},
-		"staff": {
-			"min": 1,
-			"max": 3,
-			"education": "MMT-Bemanningslid (7 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 3,
+			"Education": "MMT-Bemanningslid (7 dagen)"
 		},
 		"RequiredFrom": {
 			"Ambulance": 10
 		},
-		"limit": "1 per 10 Gebouwen"
+		"Limit": "1 per 25 Gebouwen"
 	},
 	{
 		"ID": 24,
-		"name": "DA-AGS",
-		"namelong": "Adviseur Gevaarlijke Stoffen - Brandweer",
-		"price": {
-			"credits": 19200,
-			"coins": 25
+		"Name": "DA-AGS",
+		"Namelong": "Adviseur Gevaarlijke Stoffen - Brandweer",
+		"Price": {
+			"Credits": 19200,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2,
-			"education": "Adviseur Gevaarlijke Stoffen (6 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 2,
+			"Education": "Adviseur Gevaarlijke Stoffen (6 dagen)"
 		},
 		"RequiredFrom": {
 			"Fire": 11
@@ -348,48 +348,48 @@
 	},
 	{
 		"ID": 25,
-		"name": "DB Noodhulp",
-		"namelong": "Dienstbus Noodhulp",
-		"price": {
-			"credits": 6000,
-			"coins": 25
+		"Name": "DB Noodhulp",
+		"Namelong": "Dienstbus Noodhulp",
+		"Price": {
+			"Credits": 6000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2
+		"Staff": {
+			"Min": 1,
+			"Max": 2
 		}
 	},
 	{
 		"ID": 26,
-		"name": "HA",
-		"namelong": "Haakarmvoertuig",
-		"price": {
-			"credits": 5000,
-			"coins": 12
+		"Name": "HA",
+		"Namelong": "Haakarmvoertuig",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 1,
-			"max": 3,
-			"education": "Brandweerchauffeur-zwaar (2 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 3,
+			"Education": "Brandweerchauffeur-zwaar (2 dagen)"
 		}
 	},
 	{
 		"ID": 27,
-		"name": "ABH",
-		"namelong": "Adembeschermingshaakarmbak",
-		"price": {
-			"credits": 6000,
-			"coins": 12
+		"Name": "ABH",
+		"Namelong": "AdembescherMingshaakarmbak",
+		"Price": {
+			"Credits": 6000,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 0,
-			"max": 0
+		"Staff": {
+			"Min": 0,
+			"Max": 0
 		},
 		"needvehicle": [
 			{
 				"ID": 26,
-				"name": "HA",
-				"namelong": "Haakarmvoertuig"
+				"Name": "HA",
+				"Namelong": "Haakarmvoertuig"
 			}
 		],
 		"RequiredFrom": {
@@ -398,35 +398,35 @@
 	},
 	{
 		"ID": 28,
-		"name": "Politiehelikopter",
-		"namelong": "Politiehelikopter",
-		"price": {
-			"credits": 300000,
-			"coins": 30
+		"Name": "Politiehelikopter",
+		"Namelong": "Politiehelikopter",
+		"Price": {
+			"Credits": 300000,
+			"Coins": 30
 		},
-		"staff": {
-			"min": 1,
-			"max": 2,
-			"education": "Politiehelikopter (7 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 2,
+			"Education": "Politiehelikopter (7 dagen)"
 		}
 	},
 	{
 		"ID": 29,
-		"name": "WTH",
-		"namelong": "Watertankhaakarmbak",
-		"price": {
-			"credits": 6000,
-			"coins": 12
+		"Name": "WTH",
+		"Namelong": "Watertankhaakarmbak",
+		"Price": {
+			"Credits": 6000,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 0,
-			"max": 0
+		"Staff": {
+			"Min": 0,
+			"Max": 0
 		},
 		"needvehicle": [
 			{
 				"ID": 26,
-				"name": "HA",
-				"namelong": "Haakarmvoertuig"
+				"Name": "HA",
+				"Namelong": "Haakarmvoertuig"
 			}
 		],
 		"RequiredFrom": {
@@ -435,29 +435,29 @@
 	},
 	{
 		"ID": 30,
-		"name": "Zorgambulance",
-		"namelong": "B-ambulance",
-		"price": {
-			"credits": 5000,
-			"coins": 25
+		"Name": "Zorgambulance",
+		"Namelong": "B-ambulance",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2
+		"Staff": {
+			"Min": 1,
+			"Max": 2
 		}
 	},
 	{
 		"ID": 31,
-		"name": "CO",
-		"namelong": "Commandovoertuig",
-		"price": {
-			"credits": 6000,
-			"coins": 12
+		"Name": "CO",
+		"Namelong": "Commandovoertuig",
+		"Price": {
+			"Credits": 6000,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 1,
-			"max": 3,
-			"education": "Brandweerchauffeur-zwaar (2 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 3,
+			"Education": "Brandweerchauffeur-zwaar (2 dagen)"
 		},
 		"RequiredFrom": {
 			"Fire": 14
@@ -465,21 +465,21 @@
 	},
 	{
 		"ID": 32,
-		"name": "COH",
-		"namelong": "Commandohaakarmbak",
-		"price": {
-			"credits": 6000,
-			"coins": 12
+		"Name": "COH",
+		"Namelong": "Commandohaakarmbak",
+		"Price": {
+			"Credits": 6000,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 0,
-			"max": 0
+		"Staff": {
+			"Min": 0,
+			"Max": 0
 		},
 		"needvehicle": [
 			{
 				"ID": 26,
-				"name": "HA",
-				"namelong": "Haakarmvoertuig"
+				"Name": "HA",
+				"Namelong": "Haakarmvoertuig"
 			}
 		],
 		"RequiredFrom": {
@@ -488,29 +488,29 @@
 	},
 	{
 		"ID": 33,
-		"name": "WO",
-		"namelong": "Waterongevallenvoertuig",
-		"price": {
-			"credits": 10000,
-			"coins": 25
+		"Name": "WO",
+		"Namelong": "Waterongevallenvoertuig",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 4,
-			"max": 6,
-			"education": "Duiker/Duikploegleider (7 dagen)"
+		"Staff": {
+			"Min": 4,
+			"Max": 6,
+			"Education": "Duiker/Duikploegleider (7 dagen)"
 		}
 	},
 	{
 		"ID": 34,
-		"name": "WT",
-		"namelong": "Watertankwagen",
-		"price": {
-			"credits": 17000,
-			"coins": 25
+		"Name": "WT",
+		"Namelong": "Watertankwagen",
+		"Price": {
+			"Credits": 17000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 3
+		"Staff": {
+			"Min": 1,
+			"Max": 3
 		},
 		"RequiredFrom": {
 			"Fire": 7
@@ -518,16 +518,16 @@
 	},
 	{
 		"ID": 35,
-		"name": "OVD-P",
-		"namelong": "Officier van Dienst - Politie",
-		"price": {
-			"credits": 10000,
-			"coins": 25
+		"Name": "OVD-P",
+		"Namelong": "Officier van Dienst - Politie",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 1,
-			"education": "Officier van Dienst - Politie (7 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 1,
+			"Education": "Officier van Dienst - Politie (7 dagen)"
 		},
 		"RequiredFrom": {
 			"Police": 5
@@ -535,119 +535,119 @@
 	},
 	{
 		"ID": 36,
-		"name": "WOA",
-		"namelong": "Waterongevallenaanhanger",
-		"price": {
-			"credits": 9000,
-			"coins": 12
+		"Name": "WOA",
+		"Namelong": "Waterongevallenaanhanger",
+		"Price": {
+			"Credits": 9000,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 0,
-			"max": 0
+		"Staff": {
+			"Min": 0,
+			"Max": 0
 		},
 		"needvehicle": [
 			{
 				"ID": 0,
-				"name": "SI-2",
-				"namelong": "Snel Inzetbare Eenheid (2 pers.)"
+				"Name": "SI-2",
+				"Namelong": "Snel Inzetbare Eenheid (2 pers.)"
 			},
 			{
 				"ID": 1,
-				"name": "TS 8/9",
-				"namelong": "Tankautospuit (8/9 personen)"
+				"Name": "TS 8/9",
+				"Namelong": "Tankautospuit (8/9 personen)"
 			},
 			{
 				"ID": 4,
-				"name": "HV",
-				"namelong": "Hulpverleningsvoertuig"
+				"Name": "HV",
+				"Namelong": "Hulpverleningsvoertuig"
 			},
 			{
 				"ID": 6,
-				"name": "TST 8/9 ",
-				"namelong": "Tankautospuit Terreinvaardig (8/9 personen)"
+				"Name": "TST 8/9 ",
+				"Namelong": "Tankautospuit Terreinvaardig (8/9 personen)"
 			},
 			{
 				"ID": 7,
-				"name": "TST 6/7",
-				"namelong": "Tankautospuit Terreinvaardig (6/7 personen)"
+				"Name": "TST 6/7",
+				"Namelong": "Tankautospuit Terreinvaardig (6/7 personen)"
 			},
 			{
 				"ID": 8,
-				"name": "TST 4/5",
-				"namelong": "Tankautospuit Terreinvaardig (4/5 personen)"
+				"Name": "TST 4/5",
+				"Namelong": "Tankautospuit Terreinvaardig (4/5 personen)"
 			},
 			{
 				"ID": 9,
-				"name": "TS 4/5",
-				"namelong": "Tankautospuit (4/5 personen)"
+				"Name": "TS 4/5",
+				"Namelong": "Tankautospuit (4/5 personen)"
 			},
 			{
 				"ID": 12,
-				"name": "TST-NB 8/9",
-				"namelong": "Tankautospuit Natuurbrandbestrijding (8/9 personen)"
+				"Name": "TST-NB 8/9",
+				"Namelong": "Tankautospuit Natuurbrandbestrijding (8/9 personen)"
 			},
 			{
 				"ID": 14,
-				"name": "TST-NB 6/7",
-				"namelong": "Tankautospuit Natuurbrandbestrijding (6/7 personen)"
+				"Name": "TST-NB 6/7",
+				"Namelong": "Tankautospuit Natuurbrandbestrijding (6/7 personen)"
 			},
 			{
 				"ID": 15,
-				"name": "TST-NB 4/5",
-				"namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)"
+				"Name": "TST-NB 4/5",
+				"Namelong": "Tankautospuit Natuurbrandbestrijding (4/5 personen)"
 			},
 			{
 				"ID": 17,
-				"name": "TS 6/7",
-				"namelong": "Tankautospuit (6/7 personen)"
+				"Name": "TS 6/7",
+				"Namelong": "Tankautospuit (6/7 personen)"
 			},
 			{
 				"ID": 21,
-				"name": "DB-K",
-				"namelong": "Dienstbus klein (9 personen)"
+				"Name": "DB-K",
+				"Namelong": "Dienstbus klein (9 personen)"
 			},
 			{
 				"ID": 33,
-				"name": "WO",
-				"namelong": "Waterongevallenvoertuig"
+				"Name": "WO",
+				"Namelong": "Waterongevallenvoertuig"
 			},
 			{
 				"ID": 49,
-				"name": "PM-OR",
-				"namelong": "Materieelvoertuig - Oppervlakteredding"
+				"Name": "PM-OR",
+				"Namelong": "Materieelvoertuig - Oppervlakteredding"
 			}
 		]
 	},
 	{
 		"ID": 37,
-		"name": "MMT-Auto",
-		"namelong": "MMT-Auto",
-		"price": {
-			"credits": 30000,
-			"coins": 12
+		"Name": "MMT-Auto",
+		"Namelong": "MMT-Auto",
+		"Price": {
+			"Credits": 30000,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 1,
-			"max": 4,
-			"education": "MMT-Bemanningslid (7 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 4,
+			"Education": "MMT-Bemanningslid (7 dagen)"
 		},
 		"RequiredFrom": {
 			"Ambulance": 10
 		},
-		"limit": "1 per 10 Ambulance, Standplaats, enz"
+		"Limit": "1 per 10 Ambulance gebouwen/uitbreidingen"
 	},
 	{
 		"ID": 38,
-		"name": "OvD-G",
-		"namelong": "Officier van Dienst Geneeskunde",
-		"price": {
-			"credits": 25000,
-			"coins": 25
+		"Name": "OvD-G",
+		"Namelong": "Officier van Dienst Geneeskunde",
+		"Price": {
+			"Credits": 25000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 1,
-			"education": "Officier van Dienst Geneeskunde (11 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 1,
+			"Education": "Officier van Dienst Geneeskunde (11 dagen)"
 		},
 		"RequiredFrom": {
 			"Ambulance": 8
@@ -655,105 +655,105 @@
 	},
 	{
 		"ID": 39,
-		"name": "ME Commandovoertuig",
-		"namelong": "ME Commandovoertuig",
-		"price": {
-			"credits": 10000,
-			"coins": 25
+		"Name": "ME Commandovoertuig",
+		"Namelong": "ME Commandovoertuig",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 3,
-			"education": "Mobiele Eenheid (4 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 3,
+			"Education": "Mobiele Eenheid (4 dagen)"
 		}
 	},
 	{
 		"ID": 40,
-		"name": "ME Flexbus",
-		"namelong": "ME Groepsvoertuig",
-		"price": {
-			"credits": 10000,
-			"coins": 25
+		"Name": "ME Flexbus",
+		"Namelong": "ME Groepsvoertuig",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 4,
-			"max": 8,
-			"education": "Mobiele Eenheid (4 dagen)"
+		"Staff": {
+			"Min": 4,
+			"Max": 8,
+			"Education": "Mobiele Eenheid (4 dagen)"
 		}
 	},
 	{
 		"ID": 41,
-		"name": "CT (8x8)",
-		"namelong": "Crashtender (8x8)",
-		"price": {
-			"credits": 60000,
-			"coins": 25
+		"Name": "CT (8x8)",
+		"Namelong": "Crashtender (8x8)",
+		"Price": {
+			"Credits": 60000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 2,
-			"max": 3,
-			"education": "Vliegtuigbrandbestrijding (7 dagen)"
+		"Staff": {
+			"Min": 2,
+			"Max": 3,
+			"Education": "Vliegtuigbrandbestrijding (7 dagen)"
 		}
 	},
 	{
 		"ID": 42,
-		"name": "CT (6x6)",
-		"namelong": "Crashtender (6x6)",
-		"price": {
-			"credits": 40000,
-			"coins": 25
+		"Name": "CT (6x6)",
+		"Namelong": "Crashtender (6x6)",
+		"Price": {
+			"Credits": 40000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 2,
-			"max": 3,
-			"education": "Vliegtuigbrandbestrijding (7 dagen)"
+		"Staff": {
+			"Min": 2,
+			"Max": 3,
+			"Education": "Vliegtuigbrandbestrijding (7 dagen)"
 		}
 	},
 	{
 		"ID": 43,
-		"name": "CT (4x4)",
-		"namelong": "Crashtender (4x4)",
-		"price": {
-			"credits": 15000,
-			"coins": 25
+		"Name": "CT (4x4)",
+		"Namelong": "Crashtender (4x4)",
+		"Price": {
+			"Credits": 15000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 2,
-			"max": 3,
-			"education": "Vliegtuigbrandbestrijding (7 dagen)"
+		"Staff": {
+			"Min": 2,
+			"Max": 3,
+			"Education": "Vliegtuigbrandbestrijding (7 dagen)"
 		}
 	},
 	{
 		"ID": 44,
-		"name": "AFO/OSC",
-		"namelong": "Airport Fire Officer / On Scene Commander",
-		"price": {
-			"credits": 12000,
-			"coins": 25
+		"Name": "AFO/OSC",
+		"Namelong": "Airport Fire Officer / On Scene Commander",
+		"Price": {
+			"Credits": 12000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2,
-			"education": "Airport Fire Officer / On Scene Commander (7 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 2,
+			"Education": "Airport Fire Officer / On Scene Commander (7 dagen)"
 		}
 	},
 	{
 		"ID": 45,
-		"name": "DPH",
-		"namelong": "Dompelpomphaakarmbak",
-		"price": {
-			"credits": 6000,
-			"coins": 12
+		"Name": "DPH",
+		"Namelong": "Dompelpomphaakarmbak",
+		"Price": {
+			"Credits": 6000,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 0,
-			"max": 0
+		"Staff": {
+			"Min": 0,
+			"Max": 0
 		},
 		"needvehicle": [
 			{
 				"ID": 26,
-				"name": "HA",
-				"namelong": "Haakarmvoertuig"
+				"Name": "HA",
+				"Namelong": "Haakarmvoertuig"
 			}
 		],
 		"RequiredFrom": {
@@ -762,90 +762,90 @@
 	},
 	{
 		"ID": 46,
-		"name": "DM Noodhulp",
-		"namelong": "Dienstmotor Noodhulp",
-		"price": {
-			"credits": 2500,
-			"coins": 18
+		"Name": "DM Noodhulp",
+		"Namelong": "Dienstmotor Noodhulp",
+		"Price": {
+			"Credits": 2500,
+			"Coins": 18
 		},
-		"staff": {
-			"min": 1,
-			"max": 1
+		"Staff": {
+			"Min": 1,
+			"Max": 1
 		}
 	},
 	{
 		"ID": 47,
-		"name": "DA Hondengeleider",
-		"namelong": "Dienstauto Hondengeleider",
-		"price": {
-			"credits": 8000,
-			"coins": 25
+		"Name": "DA Hondengeleider",
+		"Namelong": "Dienstauto Hondengeleider",
+		"Price": {
+			"Credits": 8000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2,
-			"education": "Hondengeleider (7 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 2,
+			"Education": "Hondengeleider (7 dagen)"
 		}
 	},
 	{
 		"ID": 48,
-		"name": "DB Hondengeleider",
-		"namelong": "Dienstbus Hondengeleider",
-		"price": {
-			"credits": 10000,
-			"coins": 25
+		"Name": "DB Hondengeleider",
+		"Namelong": "Dienstbus Hondengeleider",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2,
-			"education": "Hondengeleider (7 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 2,
+			"Education": "Hondengeleider (7 dagen)"
 		}
 	},
 	{
 		"ID": 49,
-		"name": "PM-OR",
-		"namelong": "Materieelvoertuig - Oppervlakteredding",
-		"price": {
-			"credits": 10000,
-			"coins": 25
+		"Name": "PM-OR",
+		"Namelong": "Materieelvoertuig - Oppervlakteredding",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 4,
-			"max": 9,
-			"education": "Oppervlakteredder (7 dagen)"
+		"Staff": {
+			"Min": 4,
+			"Max": 9,
+			"Education": "Oppervlakteredder (7 dagen)"
 		}
 	},
 	{
 		"ID": 50,
-		"name": "TS-OR",
-		"namelong": "Tankautospuit - Oppervlakteredding",
-		"price": {
-			"credits": 12500,
-			"coins": 25
+		"Name": "TS-OR",
+		"Namelong": "Tankautospuit - Oppervlakteredding",
+		"Price": {
+			"Credits": 12500,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 4,
-			"max": 9,
-			"education": "Oppervlakteredder (7 dagen)"
+		"Staff": {
+			"Min": 4,
+			"Max": 9,
+			"Education": "Oppervlakteredder (7 dagen)"
 		}
 	},
 	{
 		"ID": 51,
-		"name": "HVH",
-		"namelong": "Hulpverleningshaakarmbak",
-		"price": {
-			"credits": 5000,
-			"coins": 12
+		"Name": "HVH",
+		"Namelong": "Hulpverleningshaakarmbak",
+		"Price": {
+			"Credits": 5000,
+			"Coins": 12
 		},
-		"staff": {
-			"min": 0,
-			"max": 0
+		"Staff": {
+			"Min": 0,
+			"Max": 0
 		},
 		"needvehicle": [
 			{
 				"ID": 26,
-				"name": "HA",
-				"namelong": "Haakarmvoertuig"
+				"Name": "HA",
+				"Namelong": "Haakarmvoertuig"
 			}
 		],
 		"RequiredFrom": {
@@ -854,71 +854,71 @@
 	},
 	{
 		"ID": 52,
-		"name": "RR",
-		"namelong": "Rapid Responder",
-		"price": {
-			"credits": 2500,
-			"coins": 18
+		"Name": "RR",
+		"Namelong": "Rapid Responder",
+		"Price": {
+			"Credits": 2500,
+			"Coins": 18
 		},
-		"staff": {
-			"min": 1,
-			"max": 1
+		"Staff": {
+			"Min": 1,
+			"Max": 1
 		}
 	},
 	{
 		"ID": 53,
-		"name": "AT-C",
-		"namelong": "AT-Commandant",
-		"price": {
-			"credits": 10000,
-			"coins": 25
+		"Name": "AT-C",
+		"Namelong": "AT-Commandant",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2,
-			"education": "Operator AT (10 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 2,
+			"Education": "Operator AT (10 dagen)"
 		}
 	},
 	{
 		"ID": 54,
-		"name": "AT-O",
-		"namelong": "AT-Operator",
-		"price": {
-			"credits": 10000,
-			"coins": 25
+		"Name": "AT-O",
+		"Namelong": "AT-Operator",
+		"Price": {
+			"Credits": 10000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 2,
-			"max": 4,
-			"education": "Operator AT (10 dagen)"
+		"Staff": {
+			"Min": 2,
+			"Max": 4,
+			"Education": "Operator AT (10 dagen)"
 		}
 	},
 	{
 		"ID": 55,
-		"name": "AT-M",
-		"namelong": "AT-Materiaalwagen",
-		"price": {
-			"credits": 15000,
-			"coins": 25
+		"Name": "AT-M",
+		"Namelong": "AT-Materiaalwagen",
+		"Price": {
+			"Credits": 15000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2,
-			"education": "Operator AT (10 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 2,
+			"Education": "Operator AT (10 dagen)"
 		}
 	},
 	{
 		"ID": 56,
-		"name": "DA-VL",
-		"namelong": "Dienstauto Voorlichter",
-		"price": {
-			"credits": 15000,
-			"coins": 25
+		"Name": "DA-VL",
+		"Namelong": "Dienstauto Voorlichter",
+		"Price": {
+			"Credits": 15000,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 2,
-			"education": "Voorlichter (5 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 2,
+			"Education": "Voorlichter (5 dagen)"
 		},
 		"RequiredFrom": {
 			"Fire": 14
@@ -926,19 +926,20 @@
 	},
 	{
 		"ID": 57,
-		"name": "DA OVDG-RR",
-		"namelong": "Dienstvoertuig Officier van Dienst-Geneeskundig/Rapid Responder",
-		"price": {
-			"credits": 27500,
-			"coins": 25
+		"Name": "DA OVDG-RR",
+		"Namelong": "Dienstvoertuig Officier van Dienst-Geneeskundig/Rapid Responder",
+		"Price": {
+			"Credits": 27500,
+			"Coins": 25
 		},
-		"staff": {
-			"min": 1,
-			"max": 1,
-			"education": "Officier van Dienst Geneeskunde (11 dagen)"
+		"Staff": {
+			"Min": 1,
+			"Max": 1,
+			"Education": "Officier van Dienst Geneeskunde (11 dagen)"
 		},
 		"RequiredFrom": {
 			"Ambulance": 8
-		}
+		},
+		"Limit": "1 per 10 Ambulance gebouwen/uitbreidingen"
 	}
 ]
