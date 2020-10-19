@@ -1,0 +1,62 @@
+[
+    {
+        "global": {
+            "id": "ID van de inzet",
+            "name": "Naam van de melding",
+            "place": "POI",
+            "average_credits": "Gemiddelde Credits",
+            "icons": "Afbeeldingen",
+            "requirements": "Benodigdheden",
+            "chances": "Kansen",
+            "prerequisites": "Voorwaarden",
+            "additional": "Extra"
+        },
+        "requirements": {
+            "fire": {
+                "firetrucks": "Tankautospuiten",
+                "platform_trucks": "Redvoertuigen",
+                "battalion_chief_vehicles": "Officiers van Dienst",
+                "water_tankers": "Slangenwagens",
+                "mobile_command_vehicles": "Hoofd Officieren van Dienst",
+                "heavy_rescue_vehicles": "Hulpverleningsvoertuigen",
+                "mobile_air_vehicles": "Adembeschermingsvoertuigen",
+                "elw3": "Commandowagens",
+                "hazmat_vehicles": "Adviseurs Gevaarlijke Stoffen",
+                "gwmess": "Verkenningseenheden",
+                "diver_units": "Waterongevallenvoertuigen",
+                "boats": "Waterongevallenaanhangers",
+                "arff": "Crashtenders",
+                "elw_airport": "AFO/OSC",
+                "spokesman": "Voorlichters"
+            },
+            "police": {
+                "police_cars": "Noodhulpvoertuigen",
+                "police_helicopters": "Politiehelikopters",
+                "hondengeleider": "Hondengeleider",
+                "ovdp": "Officiers van Dienst",
+                "lebefkw": "ME-Commandovoertuigen",
+                "grukw": "ME-Groepsvoertuigen",
+                "at_c": "AT-Commandovoertuigen",
+                "at_o": "AT-Operators",
+                "at_m": "AT-Materiaalwagens"
+            },
+            "ambulance": {
+                "ambulances": "Ambulances"
+            }
+        },
+        "chances": {
+            "patient_transport": "Transport kans"
+        },
+        "additional": {
+            "filter_id": "Type inzet filter",
+            "expansion_missions_ids": "Mogelijke uitbreidingen",
+            "patient_specializations": "Ziekenhuis afdeling"
+        },
+        "prerequisites": {
+            "fire_stations": "Brandweer Kazernes",
+            "police_stations": "Politie Bureaus",
+            "rescue_stations": "Ambulance Standplaatsen",
+            "wasserrettung": "Waterongevallenuitbestijding"
+        }
+    }
+]
