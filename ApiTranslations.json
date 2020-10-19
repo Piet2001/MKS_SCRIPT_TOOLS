@@ -45,18 +45,32 @@
             }
         },
         "chances": {
-            "patient_transport": "Transport kans"
+            "patient_transport": "Transport kans",
+            "nef": "MMT kans"
         },
         "additional": {
             "filter_id": "Type inzet filter",
             "expansion_missions_ids": "Mogelijke uitbreidingen",
-            "patient_specializations": "Ziekenhuis afdeling"
+            "patient_specializations": "Ziekenhuis afdeling",
+            "allow_rw_instead_of_lf": "HV i.p.v. TS",
+            "allow_arff_instead_of_lf": "CT i.p.v. TS",
+            "only_alliance_mission": "Grote teaminzet",
+            "max_possible_prisoners": "Max mogelijke arrestanten",
+            "duration": "Duur van geplande inzet",
+            "guard_mission": "Geplande inzet",
+            "average_min_fire_personnel": "Minimaal brandweer personeel",
+            "patient_at_end_of_mission": "Patiënten achteraf",
+            "possible_patient_min": "Minimale aantal patiënten",
+            "possible_patient": "Maximale aantal patiënten",
+            "allow_ktw_instead_of_rtw": "Zorgambulance i.p.v. normale ambulance"
         },
         "prerequisites": {
             "fire_stations": "Brandweer Kazernes",
             "police_stations": "Politie Bureaus",
             "rescue_stations": "Ambulance Standplaatsen",
-            "wasserrettung": "Waterongevallenuitbestijding"
+            "wasserrettung": "Waterongevallenuitbestijding",
+            "bereitschaftspolizei": "Politie, Hoofdbureau",
+            "police_helicopter_stations": "Politiehelikopterstandplaats"
         }
     }
 ]
