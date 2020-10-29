@@ -1030,7 +1030,7 @@
 	{
 		"ID": 60,
 		"name": "DB-Bike",
-		"namelong": "Dinestbus Biketeam",
+		"namelong": "Dienstbus Biketeam",
 		"gameApiName": "bike_police",
 		"price": {
 			"credits": 8000,
