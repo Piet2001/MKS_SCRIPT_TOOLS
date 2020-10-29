@@ -162,7 +162,7 @@
                         "namelong": "Adviseur Gevaarlijke Stoffen - Brandweer"
                     }
                 ],
-                "Waterongevallenvoertuigen / Oppervlaktereddingsteams":[
+                "Waterongevallenvoertuigen / Oppervlaktereddingsteams": [
                     {
                         "ID": 33,
                         "name": "WO",
@@ -179,14 +179,14 @@
                         "namelong": "Tankautospuit - Oppervlakteredding"
                     }
                 ],
-                "Waterongevallenaanhangers":[
+                "Waterongevallenaanhangers": [
                     {
                         "ID": 36,
                         "name": "WOA",
                         "namelong": "Waterongevallenaanhanger"
                     }
                 ],
-                "Crashtenders":[
+                "Crashtenders": [
                     {
                         "ID": 41,
                         "name": "CT (8x8)",
@@ -203,14 +203,14 @@
                         "namelong": "Crashtender (4x4)"
                     }
                 ],
-                "Airport Fire Officers / On Scene Commanders":[
+                "Airport Fire Officers / On Scene Commanders": [
                     {
                         "ID": 44,
                         "name": "AFO/OSC",
                         "namelong": "Airport Fire Officer / On Scene Commander"
                     }
                 ],
-                "Voorlichters":[
+                "Voorlichters": [
                     {
                         "ID": 56,
                         "name": "DA-VL",
@@ -262,7 +262,7 @@
                         "namelong": "Politiehelikopter"
                     }
                 ],
-                "Hondengeleiders":[
+                "Hondengeleiders": [
                     {
                         "ID": 47,
                         "name": "DA Hondengeleider",
@@ -281,7 +281,7 @@
                         "namelong": "ME Commandovoertuig"
                     }
                 ],
-                "ME Groepsvoertuigen":[
+                "ME Groepsvoertuigen": [
                     {
                         "ID": 40,
                         "name": "ME Flexbus",
@@ -295,14 +295,14 @@
                         "namelong": "AT-Commandant"
                     }
                 ],
-                "AT Operators":[
+                "AT Operators": [
                     {
                         "ID": 54,
                         "name": "AT-O",
                         "namelong": "AT-Operator"
                     }
                 ],
-                "AT Materiaalwagen":[
+                "AT Materiaalwagen": [
                     {
                         "ID": 55,
                         "name": "AT-M",
@@ -354,7 +354,7 @@
                         "namelong": "MMT-Auto"
                     }
                 ],
-                "Officier van Dienst Geneeskunde":[
+                "Officier van Dienst Geneeskunde": [
                     {
                         "ID": 38,
                         "name": "OvD-G",
