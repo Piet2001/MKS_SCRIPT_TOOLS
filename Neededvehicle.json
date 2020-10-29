@@ -246,6 +246,16 @@
                         "ID": 48,
                         "name": "DB Hondengeleider",
                         "namelong": "Dienstbus Hondengeleider"
+                    },
+                    {
+                        "ID": 59,
+                        "name": "NH-O",
+                        "namelong": "Noodhulp - Onopvallend"
+                    },
+                    {
+                        "ID": 60,
+                        "name": "DB-Bike",
+                        "namelong": "Dienstbus Biketeam"
                     }
                 ],
                 "Officieren van Dienst - Politie": [
@@ -307,6 +317,13 @@
                         "ID": 55,
                         "name": "AT-M",
                         "namelong": "AT-Materiaalwagen"
+                    }
+                ],
+                "Biketeam": [
+                    {
+                        "ID": 60,
+                        "name": "DB-Bike",
+                        "namelong": "Dienstbus Biketeam"
                     }
                 ]
             }

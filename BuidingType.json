@@ -316,6 +316,15 @@
 				},
 				"time": "5 dagen",
 				"numberpossible": 1
+			},
+			{
+				"name": "Arrestantenvervoer",
+				"price": {
+					"credits": 100000,
+					"coins": 10
+				},
+				"time": "5 dagen",
+				"numberpossible": 1
 			}
 		]
 	},

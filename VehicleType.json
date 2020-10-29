@@ -998,5 +998,47 @@
 			"ambulance": 8
 		},
 		"limit": "1 per 10 ambulance gebouwen/uitbreidingen"
+	},
+	{
+		"ID": 58,
+		"name": "DB-AV",
+		"namelong": " Dienstbus - Arrestantenvervoer",
+		"gameApiName": null,
+		"price": {
+			"credits": 20000,
+			"coins": 25
+		},
+		"staff": {
+			"min": 2,
+			"max": 2
+		}
+	},
+	{
+		"ID": 59,
+		"name": "NH-O",
+		"namelong": "Noodhulp - Onopvallend",
+		"gameApiName": "police_cars",
+		"price": {
+			"credits": 6000,
+			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2
+		}
+	},
+	{
+		"ID": 60,
+		"name": "DB-Bike",
+		"namelong": "Dinestbus Biketeam",
+		"gameApiName": "bike_police",
+		"price": {
+			"credits": 8000,
+			"coins": 25
+		},
+		"staff": {
+			"min": 1,
+			"max": 2
+		}
 	}
 ]
