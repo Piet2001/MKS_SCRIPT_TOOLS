@@ -316,6 +316,15 @@
 				},
 				"time": "5 dagen",
 				"numberpossible": 1
+			},
+			{
+				"name": "Arrestantenvervoer",
+				"price": {
+					"credits": 100000,
+					"coins": 10
+				},
+				"time": "5 dagen",
+				"numberpossible": 1
 			}
 		]
 	},
@@ -350,7 +359,7 @@
 		"levelmax": 1,
 		"price": {
 			"credits": 100000,
-			"coins": 25			
+			"coins": 25
 		},
 		"info": "Na aankoop zichtbaar als Ambulance, Standplaats (3)"
 	}

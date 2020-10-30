@@ -38,7 +38,8 @@
                 "grukw": "ME-Groepsvoertuigen",
                 "at_c": "AT-Commandovoertuigen",
                 "at_o": "AT-Operators",
-                "at_m": "AT-Materiaalwagens"
+                "at_m": "AT-Materiaalwagens",
+                "bike_police": "Biketeams"
             },
             "ambulance": {
                 "ambulances": "Ambulances"
