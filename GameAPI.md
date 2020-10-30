@@ -8,6 +8,12 @@ The game has some API's that you can use.
 
 The game API's are:
 
+## General
+
+- [All_Missions](https://meldkamerspel.com/einsaetze.json)
+
+## Own
+
 - [Vehicles](https://meldkamerspel.com/api/vehicles)  
   - You can add the ID for a single vehicle <https://meldkamerspel.com/api/vehicles/ENTER_VEHICLE_ID>
 
@@ -19,14 +25,16 @@ The game API's are:
 
 - [Userinfo](https://meldkamerspel.com/api/credits)
 
-- [Allianceinfo](https://meldkamerspel.com/api/allianceinfo)
-
-- [All_Missions](https://meldkamerspel.com/einsaetze.json)
-
 - [POI's_on_MAP](https://www.meldkamerspel.com/mission_positions)  
 You have to turn on the POI option ingame.
 
 - [Settings](https://www.meldkamerspel.com/api/settings)  
+
+## Alliance
+
+- [Allianceinfo](https://meldkamerspel.com/api/allianceinfo)
+
+- [AllianceBuildings](https://www.meldkamerspel.com/api/alliance_buildings)
 
 ----
 
