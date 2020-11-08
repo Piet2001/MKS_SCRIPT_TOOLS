@@ -587,11 +587,6 @@
 		},
 		"needVehicle": [
 			{
-				"ID": 0,
-				"name": "SI-2",
-				"namelong": "Snel Inzetbare Eenheid (2 pers.)"
-			},
-			{
 				"ID": 1,
 				"name": "TS 8/9",
 				"namelong": "Tankautospuit (8/9 personen)"
@@ -620,6 +615,16 @@
 				"ID": 9,
 				"name": "TS 4/5",
 				"namelong": "Tankautospuit (4/5 personen)"
+			},
+			{
+				"ID": 10,
+				"name": "SL",
+				"namelong": "Slangenwagen"
+			},
+			{
+				"ID": 11,
+				"name": "DB-VEB",
+				"Namelong": "Dienstbus Verkenningseenheid Brandweer"
 			},
 			{
 				"ID": 12,
@@ -655,6 +660,11 @@
 				"ID": 49,
 				"name": "PM-OR",
 				"namelong": "Materieelvoertuig - Oppervlakteredding"
+			},
+			{
+				"ID": 50,
+				"name": "TS-OR",
+				"namelong": "Tankautospuit - Oppervlakteredding"
 			}
 		]
 	},
