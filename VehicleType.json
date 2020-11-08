@@ -233,6 +233,7 @@
 		"name": "ambulance",
 		"namelong": "ambulance",
 		"gameApiName": "ambulances",
+		"patiëntTransport": 1,
 		"price": {
 			"credits": 5000,
 			"coins": 25
@@ -324,6 +325,7 @@
 		"name": "DA Noodhulp",
 		"namelong": "Dienstauto Noodhulp",
 		"gameApiName": "police_cars",
+		"prisonerTransport": 1,
 		"price": {
 			"credits": 5000,
 			"coins": 25
@@ -375,6 +377,7 @@
 		"name": "DB Noodhulp",
 		"namelong": "Dienstbus Noodhulp",
 		"gameApiName": "police_cars",
+		"prisonerTransport": 1,
 		"price": {
 			"credits": 6000,
 			"coins": 25
@@ -467,6 +470,7 @@
 		"name": "Zorgambulance",
 		"namelong": "B-ambulance",
 		"gameApiName": null,
+		"patiëntTransport": 1,
 		"price": {
 			"credits": 5000,
 			"coins": 25
@@ -937,6 +941,7 @@
 		"name": "AT-O",
 		"namelong": "AT-Operator",
 		"gameApiName": "at_o",
+		"prisonerTransport": 1,
 		"price": {
 			"credits": 10000,
 			"coins": 25
@@ -1004,6 +1009,7 @@
 		"name": "DB-AV",
 		"namelong": " Dienstbus - Arrestantenvervoer",
 		"gameApiName": null,
+		"prisonerTransport": 5,
 		"price": {
 			"credits": 20000,
 			"coins": 25
@@ -1032,6 +1038,7 @@
 		"name": "DB-Bike",
 		"namelong": "Dienstbus Biketeam",
 		"gameApiName": "bike_police",
+		"prisonerTransport": 1,
 		"price": {
 			"credits": 8000,
 			"coins": 25
