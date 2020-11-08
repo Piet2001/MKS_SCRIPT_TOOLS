@@ -63,7 +63,8 @@
             "patient_at_end_of_mission": "Patiënten achteraf",
             "possible_patient_min": "Minimale aantal patiënten",
             "possible_patient": "Maximale aantal patiënten",
-            "allow_ktw_instead_of_rtw": "Zorgambulance i.p.v. normale ambulance"
+            "allow_ktw_instead_of_rtw": "Zorgambulance i.p.v. normale ambulance",
+            "bike_police_only_if_needed": "Biketeam alleen indien aanwezig"
         },
         "prerequisites": {
             "fire_stations": "Brandweer Kazernes",
