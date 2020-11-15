@@ -1055,7 +1055,8 @@
 		},
 		"staff": {
 			"min": 1,
-			"max": 2
+			"max": 2,
+			"education": "Biketeam (3 dagen)"
 		}
 	}
 ]
