@@ -242,5 +242,9 @@
 	{
 		"ID": 60,
 		"name": "Zendmast"
+	},
+	{
+		"ID": 61,
+		"name": "Stadscentrum"
 	}
 ]

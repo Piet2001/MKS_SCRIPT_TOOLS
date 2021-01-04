@@ -233,6 +233,7 @@
 		"name": "ambulance",
 		"namelong": "ambulance",
 		"gameApiName": "ambulances",
+		"patiëntTransport": 1,
 		"price": {
 			"credits": 5000,
 			"coins": 25
@@ -324,6 +325,7 @@
 		"name": "DA Noodhulp",
 		"namelong": "Dienstauto Noodhulp",
 		"gameApiName": "police_cars",
+		"prisonerTransport": 1,
 		"price": {
 			"credits": 5000,
 			"coins": 25
@@ -375,6 +377,7 @@
 		"name": "DB Noodhulp",
 		"namelong": "Dienstbus Noodhulp",
 		"gameApiName": "police_cars",
+		"prisonerTransport": 1,
 		"price": {
 			"credits": 6000,
 			"coins": 25
@@ -467,6 +470,7 @@
 		"name": "Zorgambulance",
 		"namelong": "B-ambulance",
 		"gameApiName": null,
+		"patiëntTransport": 1,
 		"price": {
 			"credits": 5000,
 			"coins": 25
@@ -583,11 +587,6 @@
 		},
 		"needVehicle": [
 			{
-				"ID": 0,
-				"name": "SI-2",
-				"namelong": "Snel Inzetbare Eenheid (2 pers.)"
-			},
-			{
 				"ID": 1,
 				"name": "TS 8/9",
 				"namelong": "Tankautospuit (8/9 personen)"
@@ -616,6 +615,16 @@
 				"ID": 9,
 				"name": "TS 4/5",
 				"namelong": "Tankautospuit (4/5 personen)"
+			},
+			{
+				"ID": 10,
+				"name": "SL",
+				"namelong": "Slangenwagen"
+			},
+			{
+				"ID": 11,
+				"name": "DB-VEB",
+				"Namelong": "Dienstbus Verkenningseenheid Brandweer"
 			},
 			{
 				"ID": 12,
@@ -651,6 +660,11 @@
 				"ID": 49,
 				"name": "PM-OR",
 				"namelong": "Materieelvoertuig - Oppervlakteredding"
+			},
+			{
+				"ID": 50,
+				"name": "TS-OR",
+				"namelong": "Tankautospuit - Oppervlakteredding"
 			}
 		]
 	},
@@ -937,6 +951,7 @@
 		"name": "AT-O",
 		"namelong": "AT-Operator",
 		"gameApiName": "at_o",
+		"prisonerTransport": 1,
 		"price": {
 			"credits": 10000,
 			"coins": 25
@@ -1004,6 +1019,7 @@
 		"name": "DB-AV",
 		"namelong": " Dienstbus - Arrestantenvervoer",
 		"gameApiName": null,
+		"prisonerTransport": 5,
 		"price": {
 			"credits": 20000,
 			"coins": 25
@@ -1032,13 +1048,15 @@
 		"name": "DB-Bike",
 		"namelong": "Dienstbus Biketeam",
 		"gameApiName": "bike_police",
+		"prisonerTransport": 1,
 		"price": {
 			"credits": 8000,
 			"coins": 25
 		},
 		"staff": {
 			"min": 1,
-			"max": 2
+			"max": 2,
+			"education": "Biketeam (3 dagen)"
 		}
 	}
 ]
