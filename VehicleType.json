@@ -1017,8 +1017,8 @@
 	{
 		"ID": 58,
 		"name": "DB-AV",
-		"namelong": ["Dienstbus - Arrestantenvervoer"],
-		"gameApiName": null,
+		"namelong": "Dienstbus - Arrestantenvervoer",
+		"gameApiName": [null],
 		"prisonerTransport": 5,
 		"price": {
 			"credits": 20000,
