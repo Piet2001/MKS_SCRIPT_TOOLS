@@ -57,6 +57,11 @@
                         "ID": 50,
                         "name": "TS-OR",
                         "namelong": "Tankautospuit - Oppervlakteredding"
+                    },
+                    {
+                        "ID": 62,
+                        "name": "TS-HV",
+                        "namelong": "Tankautospuit-Hulpverlening"
                     }
                 ],
                 "Redvoertuigen": [
@@ -93,6 +98,11 @@
                         "ID": 51,
                         "name": "HVH",
                         "namelong": "Hulpverleningshaakarmbak"
+                    },
+                    {
+                        "ID": 62,
+                        "name": "TS-HV",
+                        "namelong": "Tankautospuit-Hulpverlening"
                     }
                 ],
                 "Adembeschermingsvoertuig of haakarmbak": [
@@ -127,6 +137,11 @@
                         "ID": 45,
                         "name": "DPH",
                         "namelong": "Dompelpomphaakarmbak"
+                    },
+                    {
+                        "ID": 61,
+                        "name": "SLH",
+                        "namelong": "Slangenhaakarmbak"
                     }
                 ],
                 "Hoofd Officieren van Dienst": [

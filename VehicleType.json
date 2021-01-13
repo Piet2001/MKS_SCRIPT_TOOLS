@@ -11,7 +11,8 @@
 		"staff": {
 			"min": 1,
 			"max": 2
-		}
+		},
+		"waterTank": 500
 	},
 	{
 		"ID": 1,
@@ -25,7 +26,8 @@
 		"staff": {
 			"min": 1,
 			"max": 9
-		}
+		},
+		"waterTank": 2000
 	},
 	{
 		"ID": 2,
@@ -107,7 +109,8 @@
 		"staff": {
 			"min": 1,
 			"max": 9
-		}
+		},
+		"waterTank": 3000
 	},
 	{
 		"ID": 7,
@@ -121,7 +124,8 @@
 		"staff": {
 			"min": 1,
 			"max": 7
-		}
+		},
+		"waterTank": 3000
 	},
 	{
 		"ID": 8,
@@ -135,7 +139,8 @@
 		"staff": {
 			"min": 1,
 			"max": 5
-		}
+		},
+		"waterTank": 2000
 	},
 	{
 		"ID": 9,
@@ -149,7 +154,8 @@
 		"staff": {
 			"min": 1,
 			"max": 5
-		}
+		},
+		"waterTank": 1500
 	},
 	{
 		"ID": 10,
@@ -166,7 +172,8 @@
 		},
 		"requiredFrom": {
 			"fire": 7
-		}
+		},
+		"waterBoost": 15
 	},
 	{
 		"ID": 11,
@@ -198,7 +205,8 @@
 		"staff": {
 			"min": 1,
 			"max": 9
-		}
+		},
+		"waterTank": 4000
 	},
 	{
 		"ID": 14,
@@ -212,7 +220,8 @@
 		"staff": {
 			"min": 1,
 			"max": 7
-		}
+		},
+		"waterTank": 4000
 	},
 	{
 		"ID": 15,
@@ -226,7 +235,8 @@
 		"staff": {
 			"min": 1,
 			"max": 5
-		}
+		},
+		"waterTank": 4000
 	},
 	{
 		"ID": 16,
@@ -255,7 +265,8 @@
 		"staff": {
 			"min": 1,
 			"max": 7
-		}
+		},
+		"waterTank": 2000
 	},
 	{
 		"ID": 18,
@@ -463,7 +474,8 @@
 		],
 		"requiredFrom": {
 			"fire": 7
-		}
+		},
+		"waterTank": 10000
 	},
 	{
 		"ID": 30,
@@ -552,7 +564,8 @@
 		},
 		"requiredFrom": {
 			"fire": 7
-		}
+		},
+		"waterTank": 15000
 	},
 	{
 		"ID": 35,
@@ -748,7 +761,8 @@
 			"min": 2,
 			"max": 3,
 			"education": "Vliegtuigbrandbestrijding (7 dagen)"
-		}
+		},
+		"waterTank": 13300
 	},
 	{
 		"ID": 42,
@@ -763,7 +777,8 @@
 			"min": 2,
 			"max": 3,
 			"education": "Vliegtuigbrandbestrijding (7 dagen)"
-		}
+		},
+		"waterTank": 10000
 	},
 	{
 		"ID": 43,
@@ -778,7 +793,8 @@
 			"min": 2,
 			"max": 3,
 			"education": "Vliegtuigbrandbestrijding (7 dagen)"
-		}
+		},
+		"waterTank": 6000
 	},
 	{
 		"ID": 44,
@@ -817,7 +833,8 @@
 		],
 		"requiredFrom": {
 			"fire": 7
-		}
+		},
+		"waterBoost": 25
 	},
 	{
 		"ID": 46,
@@ -891,7 +908,8 @@
 			"min": 4,
 			"max": 9,
 			"education": "Oppervlakteredder (7 dagen)"
-		}
+		},
+		"waterTank": 2000
 	},
 	{
 		"ID": 51,
@@ -1058,5 +1076,46 @@
 			"max": 2,
 			"education": "Biketeam (3 dagen)"
 		}
+	},
+	{
+		"ID": 61,
+		"name": "SLH",
+		"namelong": "Slangenhaakarmbak",
+		"gameApiName": ["water_tankers"],
+		"price": {
+			"credits": 6000,
+			"coins": 12
+		},
+		"staff": {
+			"min": 0,
+			"max": 0
+		},
+		"needVehicle": [
+			{
+				"ID": 26,
+				"name": "HA",
+				"namelong": "Haakarmvoertuig"
+			}
+		],
+		"requiredFrom": {
+			"fire": 7
+		},
+		"waterBoost": 15
+	},
+	{
+		"ID": 62,
+		"name": "TS-HV",
+		"namelong": "Tankautospuit-Hulpverlening",
+		"gameApiName": ["firetrucks", "heavy_rescue_vehicles"],
+		"price": {
+			"credits": 20000,
+			"coins": 25
+		},
+		"staff": {
+			"min": 3,
+			"max": 7
+		},
+		"limit": "1 per 10 Brandweerkazernes",
+		"waterTank": 2000
 	}
 ]
