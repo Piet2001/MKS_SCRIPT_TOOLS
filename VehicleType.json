@@ -240,8 +240,8 @@
 	},
 	{
 		"ID": 16,
-		"name": "ambulance",
-		"namelong": "ambulance",
+		"name": "Ambulance",
+		"namelong": "Ambulance",
 		"gameApiName": ["ambulances"],
 		"patiëntTransport": 1,
 		"price": {
