@@ -27,7 +27,8 @@
                 "boats": "Waterongevallenaanhangers",
                 "arff": "Crashtenders",
                 "elw_airport": "AFO/OSC",
-                "spokesman": "Voorlichters"
+                "spokesman": "Voorlichters",
+                "water_needed": "Water benodigd"
             },
             "police": {
                 "police_cars": "Noodhulpvoertuigen",
