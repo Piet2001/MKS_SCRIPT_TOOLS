@@ -1231,5 +1231,21 @@
 		},
 		"limit": "1 per 10 Brandweerkazernes",
 		"waterTank": 2000
+	},
+	{
+		"ID": 52,
+		"name": "DM-RR",
+		"namelong": "Rapid Responder - Motor",
+		"gameApiName": [
+			"ambulances"
+		],
+		"price": {
+			"credits": 2500,
+			"coins": 18
+		},
+		"staff": {
+			"min": 1,
+			"max": 1
+		}
 	}
 ]
