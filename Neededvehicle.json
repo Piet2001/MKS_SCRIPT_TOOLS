@@ -360,6 +360,11 @@
                         "ID": 57,
                         "name": "DA OVDG-RR",
                         "namelong": "Dienstvoertuig Officier van Dienst-Geneeskundig/Rapid Responder"
+                    },
+                    {
+                        "ID": 63,
+                        "name": "DM-RR",
+                        "namelong": "Rapid Responder - Motor"
                     }
                 ],
                 "Zorgambulance": [
