@@ -1031,9 +1031,7 @@
 		"ID": 52,
 		"name": "RR",
 		"namelong": "Rapid Responder",
-		"gameApiName": [
-			"ambulances"
-		],
+		"gameApiName": [],
 		"price": {
 			"credits": 2500,
 			"coins": 18
@@ -1119,9 +1117,7 @@
 		"ID": 57,
 		"name": "DA OVDG-RR",
 		"namelong": "Dienstvoertuig Officier van Dienst-Geneeskundig/Rapid Responder",
-		"gameApiName": [
-			"ambulances"
-		],
+		"gameApiName": [],
 		"price": {
 			"credits": 27500,
 			"coins": 25
@@ -1236,9 +1232,7 @@
 		"ID": 63,
 		"name": "DM-RR",
 		"namelong": "Rapid Responder - Motor",
-		"gameApiName": [
-			"ambulances"
-		],
+		"gameApiName": [],
 		"price": {
 			"credits": 2500,
 			"coins": 18
