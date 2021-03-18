@@ -291,6 +291,15 @@
 				"numberpossible": 1
 			},
 			{
+				"name": "Arrestantenvervoer",
+				"price": {
+					"credits": 100000,
+					"coins": 10
+				},
+				"time": "5 dagen",
+				"numberpossible": 1
+			},
+			{
 				"name": "Mobiele Eenheid, Sectie",
 				"price": {
 					"credits": 100000,
@@ -300,7 +309,25 @@
 				"numberpossible": 1
 			},
 			{
-				"name": "Levende Have",
+				"name": "Mobiele Eenheid, 2e Sectie",
+				"price": {
+					"credits": 100000,
+					"coins": 20
+				},
+				"time": "7 dagen",
+				"numberpossible": 1
+			},
+			{
+				"name": "Mobiele Eenheid, Aanhoudingseenheid",
+				"price": {
+					"credits": 100000,
+					"coins": 20
+				},
+				"time": "5 dagen",
+				"numberpossible": 1
+			},
+			{
+				"name": "Hondenbrigade",
 				"price": {
 					"credits": 100000,
 					"coins": 20
@@ -313,15 +340,6 @@
 				"price": {
 					"credits": 200000,
 					"coins": 20
-				},
-				"time": "5 dagen",
-				"numberpossible": 1
-			},
-			{
-				"name": "Arrestantenvervoer",
-				"price": {
-					"credits": 100000,
-					"coins": 10
 				},
 				"time": "5 dagen",
 				"numberpossible": 1

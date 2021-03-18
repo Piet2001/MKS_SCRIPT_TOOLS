@@ -1,6 +1,6 @@
 [
     {
-        "brandweer":[
+        "brandweer": [
             {
                 "name": "Verkenningseenheid Brandweer",
                 "time": "3 dagen"
@@ -36,11 +36,11 @@
             {
                 "name": "Voorlichter",
                 "time": "5 dagen"
-            }        
+            }
         ]
     },
     {
-        "politie":[
+        "politie": [
             {
                 "name": "Politiehelikopter",
                 "time": "7 dagen"
@@ -64,11 +64,15 @@
             {
                 "name": "Biketeam",
                 "time": "3 dagen"
+            },
+            {
+                "name": "ME-Aanhoudingseenheid",
+                "time": "5 dagen"
             }
         ]
     },
     {
-        "ambulance":[
+        "ambulance": [
             {
                 "name": "MMT-Bemanningslid",
                 "time": "7 dagen"

@@ -309,8 +309,8 @@
                 "ME Groepsvoertuigen": [
                     {
                         "ID": 40,
-                        "name": "ME Flexbus",
-                        "namelong": "ME Groepsvoertuig"
+                        "name": "ME Flexs",
+                        "namelong": "ME Flexbus"
                     }
                 ],
                 "AT Commandant": [
@@ -339,6 +339,20 @@
                         "ID": 60,
                         "name": "DB-Bike",
                         "namelong": "Dienstbus Biketeam"
+                    }
+                ],
+                "Arrestantenvervoer": [
+                    {
+                        "ID": 58,
+                        "name": "DB-AV",
+                        "namelong": "Dienstbus - Arrestantenvervoer"
+                    }
+                ],
+                "Aanhoudingseenheden": [
+                    {
+                        "ID": 64,
+                        "name": "ME-AE",
+                        "namelong": "ME - Aanhoudingseenheid"
                     }
                 ]
             }

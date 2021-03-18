@@ -800,8 +800,8 @@
 	},
 	{
 		"ID": 40,
-		"name": "ME Flexbus",
-		"namelong": "ME Groepsvoertuig",
+		"name": "ME Flex",
+		"namelong": "ME Flexbus",
 		"gameApiName": [
 			"grukw"
 		],
@@ -1136,7 +1136,7 @@
 		"ID": 58,
 		"name": "DB-AV",
 		"namelong": "Dienstbus - Arrestantenvervoer",
-		"gameApiName": [],
+		"gameApiName": ["gefkw"],
 		"prisonerTransport": 5,
 		"price": {
 			"credits": 20000,
@@ -1240,6 +1240,21 @@
 		"staff": {
 			"min": 1,
 			"max": 1
+		}
+	},
+	{
+		"ID": 64,
+		"name": "ME-AE",
+		"namelong": "ME - Aanhoudingseenheid",
+		"gameApiName": ["detention_unit"],
+		"price": {
+			"credits": 20000,
+			"coins": 25
+		},
+		"staff": {
+			"min": 6,
+			"max": 8,
+			"education": "ME-Aanhoudingseenheid"
 		}
 	}
 ]
