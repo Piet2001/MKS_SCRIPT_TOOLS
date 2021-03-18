@@ -20,8 +20,6 @@ A list of the availible JSON:
 
 - [Design_mode_options](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/Designmode.json)  
 
-- [API_Translations](https://raw.githubusercontent.com/Piet2001/MKS_SCRIPT_TOOLS/master/ApiTranslations.json)
-
 Missing anything? Create an [issue](https://github.com/Piet2001/MKS_SCRIPT_TOOLS/issues/new)!  
 Also for other contact you can create an issue!  
 Or contact me on [discord](https://discord.gg/6gMY9vw)
