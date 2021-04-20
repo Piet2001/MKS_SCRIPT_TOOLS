@@ -382,16 +382,6 @@
 		"info": "Na aankoop zichtbaar als Ambulance, Standplaats (3)"
 	},
 	{
-		"ID": 13,
-		"name": "Ambulance, VWS-post",
-		"levelmax": 1,
-		"price": {
-			"credits": 100000,
-			"coins": 25
-		},
-		"info": "Na aankoop zichtbaar als Ambulance, Standplaats (3)"
-	},
-	{
 		"ID": 14,
 		"name": "Groot gebouwencomplex",
 		"levelmax": 5,
