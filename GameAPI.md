@@ -11,17 +11,18 @@ The game API's are:
 ## General
 
 - [All_Missions](https://meldkamerspel.com/einsaetze.json)
+- [Alliance_event_missions](https://www.meldkamerspel.com/alliance_event_types.json)
 
 ## Own
 
 - [Vehicles](https://meldkamerspel.com/api/vehicles)  
-  - You can add the ID for a single vehicle https://meldkamerspel.com/api/vehicles/ENTER_VEHICLE_ID
+  - You can add the ID for a single vehicle `https://meldkamerspel.com/api/vehicles/ENTER_VEHICLE_ID`
 
 - [Vehicle_States](https://meldkamerspel.com/api/vehicle_states)
 
 - [Buildings](https://meldkamerspel.com/api/buildings)  
-  - You can add the ID for a single building https://meldkamerspel.com/api/buildings/ENTER_BUILDING_ID  
-  - You can add /vehicles for a list of vehicles of the building https://meldkamerspel.com/api/buildings/ENTER_BUILDING_ID/vehicles
+  - You can add the ID for a single building `https://meldkamerspel.com/api/buildings/ENTER_BUILDING_ID`
+  - You can add /vehicles for a list of vehicles of the building `https://meldkamerspel.com/api/buildings/ENTER_BUILDING_ID/vehicles`
 
 - [Userinfo](https://meldkamerspel.com/api/credits)
 
