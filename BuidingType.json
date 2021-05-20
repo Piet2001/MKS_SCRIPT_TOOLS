@@ -398,5 +398,14 @@
 			"credits": "onbekend",
 			"coins": 35
 		}
+	},
+	{
+		"ID": 16,
+		"name": "Waterreddingspost",
+		"levelmax": 20,
+		"price": {
+			"credits": 500000,
+			"coins": 50
+		}
 	}
 ]

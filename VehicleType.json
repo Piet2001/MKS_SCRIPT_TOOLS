@@ -1136,7 +1136,9 @@
 		"ID": 58,
 		"name": "DB-AV",
 		"namelong": "Dienstbus - Arrestantenvervoer",
-		"gameApiName": ["gefkw"],
+		"gameApiName": [
+			"gefkw"
+		],
 		"prisonerTransport": 5,
 		"price": {
 			"credits": 20000,
@@ -1246,7 +1248,9 @@
 		"ID": 64,
 		"name": "ME-AE",
 		"namelong": "ME - Aanhoudingseenheid",
-		"gameApiName": ["detention_unit"],
+		"gameApiName": [
+			"detention_unit"
+		],
 		"price": {
 			"credits": 20000,
 			"coins": 25
@@ -1256,5 +1260,67 @@
 			"max": 8,
 			"education": "ME-Aanhoudingseenheid"
 		}
+	},
+	{
+		"ID": 65,
+		"name": "DAT_RB",
+		"namelong": " Dienstauto Terreinwaardig- Reddingsbrigade",
+		"gameApiName": [
+			"water_rescue"
+		],
+		"price": {
+			"credits": 7500,
+			"coins": 15
+		},
+		"staff": {
+			"min": 2,
+			"max": 4,
+			"education": "Waterredding"
+		}
+	},
+	{
+		"ID": 66,
+		"name": "KHV",
+		"namelong": "Kusthulpverleningsvoertuig",
+		"gameApiName": [
+			"water_rescue"
+		],
+		"price": {
+			"credits": 8000,
+			"coins": 15
+		},
+		"staff": {
+			"min": 2,
+			"max": 6,
+			"education": "Waterredding"
+		}
+	},
+	{
+		"ID": 36,
+		"name": "BA-RB",
+		"namelong": "Bootaanhanger Reddingsbrigade",
+		"gameApiName": [
+			"boats"
+		],
+		"price": {
+			"credits": 5000,
+			"coins": 15
+		},
+		"staff": {
+			"min": 0,
+			"max": 0
+		},
+		"needVehicle": [
+			{
+				"ID": 65,
+				"name": "DAT-RB",
+				"namelong": "Dienstauto Terreinwaardig- Reddingsbrigade"
+			},
+			{
+				"ID": 66,
+				"name": "KHV",
+				"namelong": "Kusthulpverleningsvoertuig"
+			}
+		]
 	}
 ]
