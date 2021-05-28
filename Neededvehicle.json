@@ -199,6 +199,11 @@
                         "ID": 36,
                         "name": "WOA",
                         "namelong": "Waterongevallenaanhanger"
+                    },
+                    {
+                        "ID": 67,
+                        "name": "BA-RB",
+                        "namelong": "Bootaanhanger Reddingsbrigade"
                     }
                 ],
                 "Crashtenders": [
@@ -230,6 +235,18 @@
                         "ID": 56,
                         "name": "DA-VL",
                         "namelong": "Dienstauto Voorlichter"
+                    }
+                ],
+                "Strandvoertuigen": [
+                    {
+                        "ID": 65,
+                        "name": "DAT-RB",
+                        "namelong": "Dienstauto Terreinwaardig - Reddingsbrigade"
+                    },
+                    {
+                        "ID": 66,
+                        "name": "KHV",
+                        "namelong": "Kusthulpverleningsvoertuig"
                     }
                 ]
             }

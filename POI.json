@@ -246,5 +246,17 @@
 	{
 		"ID": 61,
 		"name": "Stadscentrum"
+	},
+	{
+		"ID": 62,
+		"name": "Strand"
+	},
+	{
+		"ID": 63,
+		"name": "Strandopgang"
+	},
+	{
+		"ID": 64,
+		"name": "Duinen"
 	}
 ]
