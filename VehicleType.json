@@ -1263,7 +1263,7 @@
 	},
 	{
 		"ID": 65,
-		"name": "DAT_RB",
+		"name": "DAT-RB",
 		"namelong": " Dienstauto Terreinwaardig- Reddingsbrigade",
 		"gameApiName": [
 			"water_rescue"
