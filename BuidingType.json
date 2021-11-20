@@ -395,7 +395,7 @@
 		"name": "Klein gebouwencomplex",
 		"levelmax": 5,
 		"price": {
-			"credits": "onbekend",
+			"credits": 0,
 			"coins": 35
 		}
 	},
